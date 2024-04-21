@@ -1,0 +1,4301 @@
+{
+    "result": {
+        "metric": 0.3877842684356773,
+        "eval_loss": 0.15023027005980708
+    },
+    "val_model_outputs": [
+        0.055908203125,
+        -0.0216064453125,
+        0.4140625,
+        0.298583984375,
+        0.220458984375,
+        0.1439208984375,
+        0.1817626953125,
+        0.869140625,
+        0.7431640625,
+        0.048675537109375,
+        -0.0187835693359375,
+        0.315185546875,
+        0.4794921875,
+        0.38427734375,
+        -0.0200347900390625,
+        -0.0504150390625,
+        -0.048095703125,
+        0.54248046875,
+        0.420166015625,
+        -0.135498046875,
+        1.0595703125,
+        0.01271820068359375,
+        0.1279296875,
+        0.5322265625,
+        1.2275390625,
+        0.6728515625,
+        0.0902099609375,
+        0.14892578125,
+        0.03472900390625,
+        -0.090576171875,
+        0.67919921875,
+        1.1923828125,
+        0.06640625,
+        0.2027587890625,
+        0.31787109375,
+        0.303955078125,
+        0.343505859375,
+        1.2001953125,
+        0.669921875,
+        0.8837890625,
+        0.042694091796875,
+        1.0634765625,
+        -0.0950927734375,
+        0.146240234375,
+        0.11370849609375,
+        0.9169921875,
+        0.007167816162109375,
+        0.462158203125,
+        0.30859375,
+        0.0799560546875,
+        0.99658203125,
+        0.481201171875,
+        -0.053314208984375,
+        0.72021484375,
+        0.468505859375,
+        0.374267578125,
+        -0.11962890625,
+        0.97802734375,
+        -0.16015625,
+        0.02203369140625,
+        -0.0772705078125,
+        0.6708984375,
+        -0.1287841796875,
+        0.245849609375,
+        0.14990234375,
+        0.85009765625,
+        0.253173828125,
+        0.062042236328125,
+        1.02734375,
+        0.626953125,
+        -0.0091400146484375,
+        -0.049163818359375,
+        1.0556640625,
+        -0.034759521484375,
+        0.130126953125,
+        0.52685546875,
+        0.139404296875,
+        0.062042236328125,
+        0.70361328125,
+        1.0185546875,
+        -0.1885986328125,
+        0.1436767578125,
+        0.26171875,
+        0.301025390625,
+        0.474853515625,
+        -0.009002685546875,
+        -0.028839111328125,
+        1.091796875,
+        0.36328125,
+        0.258056640625,
+        -0.103759765625,
+        1.1298828125,
+        0.336669921875,
+        0.473876953125,
+        0.045806884765625,
+        0.61572265625,
+        -0.030303955078125,
+        -0.0215911865234375,
+        0.55712890625,
+        0.0011615753173828125,
+        -0.08453369140625,
+        -0.02691650390625,
+        0.048553466796875,
+        0.0701904296875,
+        0.521484375,
+        0.1494140625,
+        0.33837890625,
+        0.186767578125,
+        0.02850341796875,
+        0.6220703125,
+        1.1337890625,
+        0.998046875,
+        0.4736328125,
+        0.3525390625,
+        0.83154296875,
+        0.08929443359375,
+        0.196533203125,
+        0.1624755859375,
+        0.48291015625,
+        0.072509765625,
+        0.456298828125,
+        0.050201416015625,
+        0.1610107421875,
+        -0.0290679931640625,
+        -0.11669921875,
+        0.67578125,
+        0.17578125,
+        0.8173828125,
+        0.314208984375,
+        0.65966796875,
+        0.121337890625,
+        0.1636962890625,
+        0.8896484375,
+        -0.005035400390625,
+        -0.04864501953125,
+        0.318359375,
+        0.65576171875,
+        0.65625,
+        0.8701171875,
+        0.1962890625,
+        0.83154296875,
+        0.146484375,
+        0.0293121337890625,
+        0.53125,
+        0.1627197265625,
+        0.95556640625,
+        1.16015625,
+        -0.0638427734375,
+        -0.10491943359375,
+        0.4326171875,
+        0.2279052734375,
+        -0.1329345703125,
+        1.2119140625,
+        0.032073974609375,
+        0.3447265625,
+        0.01039886474609375,
+        0.232421875,
+        0.042877197265625,
+        0.281982421875,
+        0.1927490234375,
+        0.0201263427734375,
+        0.095703125,
+        1.1875,
+        -0.1341552734375,
+        0.387451171875,
+        0.045684814453125,
+        -0.023681640625,
+        -0.006038665771484375,
+        0.4853515625,
+        0.330078125,
+        0.86767578125,
+        0.90185546875,
+        0.178955078125,
+        0.06329345703125,
+        0.68994140625,
+        0.2099609375,
+        0.050811767578125,
+        1.0419921875,
+        -0.0294342041015625,
+        0.486328125,
+        0.72900390625,
+        -0.0276641845703125,
+        0.076416015625,
+        0.72216796875,
+        0.41943359375,
+        0.64111328125,
+        1.0419921875,
+        1.123046875,
+        1.185546875,
+        0.1319580078125,
+        0.1644287109375,
+        0.85107421875,
+        0.088623046875,
+        0.7880859375,
+        0.015380859375,
+        0.6943359375,
+        -0.03631591796875,
+        0.348876953125,
+        1.013671875,
+        0.96826171875,
+        0.11566162109375,
+        0.419677734375,
+        0.0809326171875,
+        0.51220703125,
+        0.3671875,
+        0.038665771484375,
+        0.69140625,
+        0.093017578125,
+        0.93310546875,
+        0.587890625,
+        0.04193115234375,
+        -0.1492919921875,
+        -0.03961181640625,
+        0.5693359375,
+        -0.08172607421875,
+        0.450927734375,
+        0.25830078125,
+        0.01123046875,
+        0.1241455078125,
+        0.2073974609375,
+        0.5185546875,
+        -0.11724853515625,
+        0.9873046875,
+        0.1767578125,
+        0.3837890625,
+        0.1756591796875,
+        -0.0201568603515625,
+        0.06280517578125,
+        0.7109375,
+        -0.0338134765625,
+        0.61767578125,
+        0.70068359375,
+        0.1685791015625,
+        0.0280303955078125,
+        0.01342010498046875,
+        0.06964111328125,
+        0.12255859375,
+        0.0484619140625,
+        1.091796875,
+        1.14453125,
+        0.09814453125,
+        0.433837890625,
+        -0.0143280029296875,
+        -0.043914794921875,
+        1.1650390625,
+        -0.12115478515625,
+        0.283935546875,
+        0.1708984375,
+        0.328125,
+        0.044952392578125,
+        -0.077392578125,
+        0.031646728515625,
+        0.0692138671875,
+        0.0399169921875,
+        0.3623046875,
+        0.98974609375,
+        0.5283203125,
+        -0.034027099609375,
+        0.1256103515625,
+        -0.06903076171875,
+        0.1031494140625,
+        -0.0167694091796875,
+        0.22265625,
+        0.091552734375,
+        0.316650390625,
+        1.1708984375,
+        0.2548828125,
+        0.146240234375,
+        0.1385498046875,
+        0.04486083984375,
+        -0.1087646484375,
+        0.8486328125,
+        0.04718017578125,
+        1.2646484375,
+        0.001888275146484375,
+        0.4267578125,
+        0.1578369140625,
+        0.0692138671875,
+        0.08978271484375,
+        1.0693359375,
+        -0.06866455078125,
+        -0.015869140625,
+        -0.0848388671875,
+        0.021942138671875,
+        0.984375,
+        0.13720703125,
+        0.1678466796875,
+        0.00595855712890625,
+        0.15234375,
+        -0.001911163330078125,
+        0.05718994140625,
+        0.0537109375,
+        0.035125732421875,
+        0.38037109375,
+        0.08746337890625,
+        0.07275390625,
+        0.1510009765625,
+        0.08148193359375,
+        0.166015625,
+        0.6357421875,
+        -0.024993896484375,
+        0.42724609375,
+        0.1546630859375,
+        0.160400390625,
+        -0.030731201171875,
+        0.1666259765625,
+        0.1693115234375,
+        0.42431640625,
+        -0.09014892578125,
+        0.87451171875,
+        0.69287109375,
+        0.442626953125,
+        0.0943603515625,
+        0.270751953125,
+        0.22021484375,
+        0.208740234375,
+        0.1251220703125,
+        0.142333984375,
+        0.7587890625,
+        0.72314453125,
+        0.05120849609375,
+        0.07269287109375,
+        0.66455078125,
+        0.359619140625,
+        0.0628662109375,
+        0.64501953125,
+        0.140869140625,
+        0.423583984375,
+        0.1378173828125,
+        0.84375,
+        0.31982421875,
+        0.712890625,
+        0.09820556640625,
+        0.0706787109375,
+        0.1207275390625,
+        0.00034499168395996094,
+        0.0287017822265625,
+        0.11163330078125,
+        0.17529296875,
+        0.2093505859375,
+        0.291015625,
+        0.004726409912109375,
+        0.4736328125,
+        0.08453369140625,
+        0.005268096923828125,
+        -0.089111328125,
+        0.98388671875,
+        0.00146484375,
+        0.0631103515625,
+        0.0107879638671875,
+        -0.03662109375,
+        -0.09674072265625,
+        0.91015625,
+        0.2012939453125,
+        1.33984375,
+        0.61572265625,
+        0.51953125,
+        0.57470703125,
+        0.356201171875,
+        -0.0322265625,
+        0.8486328125,
+        0.57421875,
+        0.505859375,
+        0.473388671875,
+        0.031494140625,
+        0.2220458984375,
+        0.0062408447265625,
+        0.37939453125,
+        0.06634521484375,
+        0.2666015625,
+        1.1171875,
+        0.1322021484375,
+        0.12384033203125,
+        -0.026336669921875,
+        0.53955078125,
+        1.05859375,
+        0.055419921875,
+        1.0546875,
+        -0.071044921875,
+        0.45068359375,
+        0.96044921875,
+        0.062042236328125,
+        0.619140625,
+        -0.057708740234375,
+        0.57373046875,
+        0.471435546875,
+        0.8291015625,
+        1.2294921875,
+        0.50244140625,
+        0.619140625,
+        0.251220703125,
+        0.444580078125,
+        0.08709716796875,
+        0.283203125,
+        0.204345703125,
+        0.1978759765625,
+        0.80029296875,
+        0.93994140625,
+        0.10186767578125,
+        0.171630859375,
+        0.1611328125,
+        0.1986083984375,
+        0.6357421875,
+        1.107421875,
+        0.0236968994140625,
+        0.1287841796875,
+        1.0693359375,
+        0.161865234375,
+        0.257080078125,
+        1.2001953125,
+        0.787109375,
+        0.399169921875,
+        0.1201171875,
+        0.76708984375,
+        -0.04595947265625,
+        0.64208984375,
+        -0.040069580078125,
+        -0.049224853515625,
+        -0.047454833984375,
+        0.2037353515625,
+        0.104248046875,
+        0.091064453125,
+        0.27099609375,
+        0.004573822021484375,
+        0.3359375,
+        0.1912841796875,
+        0.51513671875,
+        -0.08221435546875,
+        0.4013671875,
+        -0.0740966796875,
+        0.099365234375,
+        -0.054901123046875,
+        0.21826171875,
+        0.302734375,
+        0.1234130859375,
+        -0.0694580078125,
+        0.9541015625,
+        1.048828125,
+        -0.023284912109375,
+        1.1103515625,
+        0.0293731689453125,
+        -0.039886474609375,
+        0.472900390625,
+        0.990234375,
+        0.00939178466796875,
+        0.1025390625,
+        1.216796875,
+        -0.06402587890625,
+        0.34716796875,
+        0.039276123046875,
+        0.487060546875,
+        0.64111328125,
+        0.73193359375,
+        1.2275390625,
+        -0.0401611328125,
+        0.1513671875,
+        -0.08538818359375,
+        0.580078125,
+        0.211181640625,
+        0.4873046875,
+        0.361328125,
+        0.78369140625,
+        0.356689453125,
+        0.61328125,
+        0.2476806640625,
+        0.9892578125,
+        0.00839996337890625,
+        -0.1669921875,
+        0.334228515625,
+        0.1602783203125,
+        0.11798095703125,
+        0.9912109375,
+        0.0765380859375,
+        0.0140838623046875,
+        1.076171875,
+        0.388671875,
+        0.053314208984375,
+        0.654296875,
+        1.0625,
+        -0.01236724853515625,
+        0.615234375,
+        0.0850830078125,
+        0.002414703369140625,
+        -0.10601806640625,
+        1.0234375,
+        -0.0258331298828125,
+        0.10516357421875,
+        0.0173797607421875,
+        -0.0247344970703125,
+        -0.049957275390625,
+        0.2685546875,
+        0.056915283203125,
+        0.2430419921875,
+        0.470947265625,
+        0.486572265625,
+        0.5048828125,
+        1.12890625,
+        0.51318359375,
+        0.8984375,
+        0.0980224609375,
+        1.2578125,
+        0.425048828125,
+        0.6640625,
+        1.23828125,
+        1.2958984375,
+        0.267822265625,
+        0.94189453125,
+        0.412353515625,
+        0.086181640625,
+        0.537109375,
+        0.45703125,
+        0.41845703125,
+        1.0390625,
+        1.4091796875,
+        0.0850830078125,
+        1.044921875,
+        -0.0535888671875,
+        -0.0298919677734375,
+        0.09063720703125,
+        0.97705078125,
+        0.65283203125,
+        0.09844970703125,
+        0.51953125,
+        0.5009765625,
+        0.82958984375,
+        0.062408447265625,
+        0.314453125,
+        0.849609375,
+        0.876953125,
+        0.031097412109375,
+        0.376220703125,
+        0.0018825531005859375,
+        0.490966796875,
+        0.26025390625,
+        0.8623046875
+    ],
+    "val_predictions": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ],
+    "val_wrong_predictions": {
+        "0": {
+            "text_a": "Estos tienen que cargar con un estigma que no les pertenece. Porque los que llaman racistas a los demás son los primeros que ven a tres moros y se cambian de acera, sin preguntarse sin delincuentes o gente normal. Esta gente es así, toda. Y es gran parte del problema.\n\n13/14",
+            "text_b": null,
+            "label": 0
+        },
+        "1": {
+            "text_a": "MENTION Prueba de tu medicina feminazi.",
+            "text_b": null,
+            "label": 0
+        },
+        "2": {
+            "text_a": "\"En el mundo hay aproximadamente 3888 millones de hombres\"\n—  1 solo de nosotros hace algo mal...\n— Automáticamente las mujeres: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "3": {
+            "text_a": "Las mujeres no hay que entenderlas (por qué es imposible) hay que quererlas",
+            "text_b": null,
+            "label": 1
+        },
+        "4": {
+            "text_a": "De verdad que no se puede tener más morro…os juro que no todas las mujeres somos lerdas. Sé que está difícil de creer pero alguna queda. URL",
+            "text_b": null,
+            "label": 1
+        },
+        "5": {
+            "text_a": "Menos centros de inmigrantes ilegales y más residencias públicas para nuestros abuelos.\n\n Es Hora De Vox  \n Team Vox  \n Levantando España  ",
+            "text_b": null,
+            "label": 0
+        },
+        "6": {
+            "text_a": "Idea inclusiva millonaria: crear una Nutella blanca para que los negros no se muerdan los dedos. URL",
+            "text_b": null,
+            "label": 1
+        },
+        "7": {
+            "text_a": "PIROPOS\n\nHombres: \n\n—Cuidado con las abejas señorita, es usted un dulce.\n\nMujeres:\n\n—Ojalá fuera una foca para que me mates a palos papi.",
+            "text_b": null,
+            "label": 1
+        },
+        "8": {
+            "text_a": "¿En qué se parecen las mujeres y los paracaídas?\n— En que si no se abren, no sirven.\n\nHASHTAG   HASHTAG    feminismo  ",
+            "text_b": null,
+            "label": 1
+        },
+        "9": {
+            "text_a": "¿Por qué las feministas están tan obsesionadas con decirles a las mujeres que solo son un objeto sexual? 🤔 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "10": {
+            "text_a": "EL FEMINISMO ES EL PEOR ENEMIGO DE LA MUJER PORQUE ATACA AL DERECHO DE LA MATERNIDAD\n\nURL\n\nSi eres mujer, el feminismo no te apoyará para que seas madre y cuides de tu hijo en libertad.",
+            "text_b": null,
+            "label": 0
+        },
+        "11": {
+            "text_a": "Cuando compréis ropa a bebés pensad esto.\n\nAzul/rosa:\n-tradicionalmente asociado con el sexo masculino y femenino respectivamente\n-mantiene roles de género\n-simple\n\nDisfraz de limón:\n-totalmente neutro\n-atemporal, totalmente reutilizable.",
+            "text_b": null,
+            "label": 0
+        },
+        "12": {
+            "text_a": "MENTION Lo hacemos 1 o 2 veces en el primer amor, luego se nos pasa la tontería porque son todas putas y ningún culo vale tu paz",
+            "text_b": null,
+            "label": 0
+        },
+        "13": {
+            "text_a": "MENTION Futura chef gorda?",
+            "text_b": null,
+            "label": 0
+        },
+        "14": {
+            "text_a": "Entiendan muchachos, la Iglesia no rechaza a los homosexuales. Hay muchos dentro de las parroquias, y estos mismos son (somos) gente que vive en castidad y son los más férreos opositores a las ideas LGB6.",
+            "text_b": null,
+            "label": 0
+        },
+        "15": {
+            "text_a": "MENTION MENTION Si tiene erección y penetra a sus parejas hombres, entonces es un hombre homosexual al que le gusta vestirse de mujer. Sería más sencillo que reconociera eso, o por último que es un travesti, pero considerarse mujer es una estupidez que raya en lo enfermizo",
+            "text_b": null,
+            "label": 0
+        },
+        "16": {
+            "text_a": "Las mismas hijuepütas y los mismos hijepütas feos, horribles de siempre defendiendo a los delincuentes, para variar son feministas y aliados pan de dulce que están defendiendo a delincuentes, extorsiónadores y violadores.",
+            "text_b": null,
+            "label": 0
+        },
+        "17": {
+            "text_a": " feminismo   HASHTAG    Igualdad De Genero   HASHTAG   \nChico: Hola, soy un soso sin personalidad que no tengo gracia ni aunque mis chistes los cuente otro.\nChica: ¿Y qué?\nChico: Que tengo pasta.\nChica: Te la chupo.",
+            "text_b": null,
+            "label": 1
+        },
+        "18": {
+            "text_a": "Carta a los rezes racista\n\nTres cabeza rapadas escribiendo la carta a los rezes magos: \n queridos rezes magos: para esta navidades queremos 3 puños, 3 bates de beisbol 3 pasamontañas si teneis cojones que venga el negro \n\nHASHTAG    varios  ",
+            "text_b": null,
+            "label": 1
+        },
+        "19": {
+            "text_a": "Cada vez que leo a una bisexual diciendo que sufre heterosexulidad obligatoria pero que sigue siendo bi y que ademas decir lo contrario es bifobia, me dan ganas de explotar que no puedo. Es estoy hasta el coño de vuestra puta lesbofobia y de la manía de apropiaros de experiencias",
+            "text_b": null,
+            "label": 0
+        },
+        "20": {
+            "text_a": "_x0097_Hijo, ¿Reprobaste? _x0097_Sí, YOLO!... _x0097_¿YOLO? _x0097_Sí, yolo de la tlisteza _x0097_JAJAJAJÁ! ¡Maldito chino, por eso te adoptamos! _x0097_JÁ! ¡Lo sé, soy telible",
+            "text_b": null,
+            "label": 1
+        },
+        "21": {
+            "text_a": "Ser fea es condición necesaria para ser feminazi.",
+            "text_b": null,
+            "label": 1
+        },
+        "22": {
+            "text_a": "Y así Europa dejará de ser Europa para transformarse en musulmania URL",
+            "text_b": null,
+            "label": 0
+        },
+        "23": {
+            "text_a": "¿Algún medio español podría confirmar si este soldado ucraniano prisionero del ejército ruso sería o no un nazi?.\nMENTION MENTION MENTION MENTION MENTION MENTION MENTION \nSin prisa, que me lo he inventado todo. URL URL",
+            "text_b": null,
+            "label": 0
+        },
+        "24": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION MENTION\nQue botella se lleva una mujer a una fiesta?\nLa de Fairy.",
+            "text_b": null,
+            "label": 1
+        },
+        "25": {
+            "text_a": "MENTION Ese chiste estuvo tan negro, que ya estuvo dos veces en la carcel y no conocio a su papa",
+            "text_b": null,
+            "label": 1
+        },
+        "26": {
+            "text_a": "sinceramente lo q esta haciendo putin me parece perfecto, putos ucranianos,la mayoría son negros e inmigrantes de clase baja,esa gente merece estar muerta, Putin God  ",
+            "text_b": null,
+            "label": 0
+        },
+        "27": {
+            "text_a": "Las igualdad entre hombres y mujeres, realmente se va a dar, el día que los hombres dejen de tener pene para tener vagina, y las mujeres dejen de tener vagina para tener pene 😎😌",
+            "text_b": null,
+            "label": 0
+        },
+        "28": {
+            "text_a": "MENTION Si son lesbianas poede decir: Una Torta para otra Torta",
+            "text_b": null,
+            "label": 1
+        },
+        "29": {
+            "text_a": "MENTION Y vosotras no decidís si nos parecéis unas putas o no",
+            "text_b": null,
+            "label": 0
+        },
+        "30": {
+            "text_a": "¿Desde cuando los tios se maquillan? Es la ultima moda ver eso en la universidad",
+            "text_b": null,
+            "label": 0
+        },
+        "31": {
+            "text_a": "- ¡Uh te dijo indio! -Hiju di su puta madri, pasemi el macheti.",
+            "text_b": null,
+            "label": 1
+        },
+        "32": {
+            "text_a": "Las feminazis no odian a los hombres, los envidian por eso se parecen tanto a los machos, se visten como tales, se dejan los pelos, son muy violentas y pelean como hombres.",
+            "text_b": null,
+            "label": 0
+        },
+        "33": {
+            "text_a": "MENTION “Hurgándose el berberecho”. Me has hecho más gay aún.",
+            "text_b": null,
+            "label": 0
+        },
+        "34": {
+            "text_a": "Estoy viendo \" First Dates\" y ¡ madre mía! están saliendo tres bolleras con los pelos de colores y 18 años, ¡ hay que ver lo gilipollas que es la gente joven hoy día! Y no paro de preguntarme en que cojones estaba pensando Aznar cuando quitó la mili. 🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️🤦‍♂️",
+            "text_b": null,
+            "label": 0
+        },
+        "35": {
+            "text_a": "Solo? Putos moros",
+            "text_b": null,
+            "label": 0
+        },
+        "36": {
+            "text_a": "MENTION Misandria extrema, promovida por un travesti, q ironia 🤨🤣",
+            "text_b": null,
+            "label": 0
+        },
+        "37": {
+            "text_a": "Dame la vuelta\n\nP\n?como puedes tener entretenida a una mujer por horas? \n r: le das un papel que dice por los dos lados: dame la vuelta\n\nHASHTAG    mac hist as  ",
+            "text_b": null,
+            "label": 1
+        },
+        "38": {
+            "text_a": "9 de cada 10 mujeres tienen un genio de la chingada, la otra también pero es tu novia y te callas porque sino te parte tu madre.",
+            "text_b": null,
+            "label": 1
+        },
+        "39": {
+            "text_a": "MENTION \"¡Chupala puta!\" \"Ponte a cuatro bajalo y chupa\" jajajaja\nMENTION (2017)",
+            "text_b": null,
+            "label": 0
+        },
+        "40": {
+            "text_a": "Otro nuevo éxito de las 'feministas' de MENTION 👏🏽👏🏽👏🏽\n Si Se Puede  \n Hermana Yo Te Creo  \n Stop Feminazis  \n Asco  \n Stop Corrupcion  \n Disfruten Lo Votado  \n Gobierno Progresista  \n Gobierno De España  \n El Gobierno De La Gente   URL",
+            "text_b": null,
+            "label": 0
+        },
+        "41": {
+            "text_a": "Cómo tener loca a una mujer: 1. Tómela una foto. 2. No se la enseñes.",
+            "text_b": null,
+            "label": 1
+        },
+        "42": {
+            "text_a": "esto no es homofobia son chingaderas",
+            "text_b": null,
+            "label": 0
+        },
+        "43": {
+            "text_a": "MENTION MENTION Las personas trans conocemos a TODAS las personas trans y LAS ODIAMOS. Ya es hora de dejar de mentir",
+            "text_b": null,
+            "label": 1
+        },
+        "44": {
+            "text_a": "Acaba de reconocer Peter que lo de Melilla y los inmigrantes es cosa de las mafias. Hace 1 año era cosa de 4 fascistas sin corazón el decir esas cosas.",
+            "text_b": null,
+            "label": 0
+        },
+        "45": {
+            "text_a": "1ra escena: George Michael, 2da: Juan Gabriel, 3ra Ricky Martin, ¿cómo se llama la obra? Los ex-men.",
+            "text_b": null,
+            "label": 1
+        },
+        "46": {
+            "text_a": "MENTION Eso es porque las feministas están tranquilitas.",
+            "text_b": null,
+            "label": 0
+        },
+        "47": {
+            "text_a": "Si las putas brillaran, tú serías \"Las Vegas\".😆",
+            "text_b": null,
+            "label": 1
+        },
+        "48": {
+            "text_a": "MENTION Pues mira, te lo podría explicar con datos estadísticos pero lo personal vende mejor.\n\nEn mi barrio hace 2 años implantaron un centro de menas. A las semanas de ello 3 niñas de mi edad fueron agredidas sexualmente y negocios y particulares sufrieron robos por parte de ellos +",
+            "text_b": null,
+            "label": 0
+        },
+        "49": {
+            "text_a": "Las feminazis apuñalándose por el reparto del botín.\n\nTendrán su Núremberg y su Spandau.\n\nUno de cada tres funcionarios de Irene Montero ha pedido el traslado a otro Ministerio\n\nURL",
+            "text_b": null,
+            "label": 0
+        },
+        "50": {
+            "text_a": "Mujeres stalkeando:\n\nEncuentran algo: PUTA MADRE ¡lo sabía, es un pendejo!\nNo hallan nada: PUTA MADRE, borró todo. ¡Lo sabía, es un pendejo!",
+            "text_b": null,
+            "label": 1
+        },
+        "51": {
+            "text_a": "Quién putas mantiene un embarazo hasta la semana 23 para en la 24 abortar? Exacto, las feminazis.",
+            "text_b": null,
+            "label": 0
+        },
+        "52": {
+            "text_a": "Lo absurdo es que el Feminismo de Género continúa intentando convencernos de su ideologia a base de adoctrinar. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "53": {
+            "text_a": "acabo dver a una gorda rodar por las escaleras del metro k pringi",
+            "text_b": null,
+            "label": 0
+        },
+        "54": {
+            "text_a": "—Pásame el pantalón negro. \n—Pídemelo con educación. \n—Por favor afroamericano, pásame el pantalón.",
+            "text_b": null,
+            "label": 1
+        },
+        "55": {
+            "text_a": "Viendo el fieston de revelacion de genero que hizo con su esposo la gyal que preñé URL",
+            "text_b": null,
+            "label": 0
+        },
+        "56": {
+            "text_a": "Las personas ingénuas que aún creen en un FEMINISMO \"del bueno\" son corresponsales de que se estén cometiendo barbaries con las Leyes de Género. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "57": {
+            "text_a": "¿Por qué las mujeres no esquían? Porque en la cocina no hay nieve.",
+            "text_b": null,
+            "label": 1
+        },
+        "58": {
+            "text_a": "Todos conocemos a esas feministas cuerpo de orca que se sienten molestas por ver mujeres delgadas como modelo ideal. No son diferentes esas femis a los lujuriosos que sienten cositas en la cabeza nada más porque alguien publica su castidad en twitter.",
+            "text_b": null,
+            "label": 0
+        },
+        "59": {
+            "text_a": "\"los errores te hacen mas fuerte\"\n\nLos padres de las feministas: URL",
+            "text_b": null,
+            "label": 1
+        },
+        "60": {
+            "text_a": "Las mujeres debemos rebelarnos contra el FEMINISMO OPRESOR. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "61": {
+            "text_a": "HASHTAG   \n-Tengo 11 años. Mi padre y sus amigos me violan por turnos todos los viernes. Me quiero suicidar.\n*No me cuentes tu vida y quita del medio, joder, que estoy viendo la final del mundial de fútbol.\n-¿Femenino?\n*Te daré tu merecido, zorra.",
+            "text_b": null,
+            "label": 0
+        },
+        "62": {
+            "text_a": "Se han pasado toda la vida diciendo que las denuncias falsas no existen. Y que hay que creer a las mujeres sin necesidad de aportar pruebas. Y ahora pasa lo que pasa. \n\nEspero que sirva para que muchos abran los ojos de las burradas que defienden. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "63": {
+            "text_a": "El grupo de menas dándome ventaja después de que les diga que no tengo un triste cigarro",
+            "text_b": null,
+            "label": 0
+        },
+        "64": {
+            "text_a": "En Australia deportan a un famoso y se les aplaude. En España devuelven en caliente a quién traspasa nuestras fronteras sin permiso y nos llaman racistas.",
+            "text_b": null,
+            "label": 0
+        },
+        "65": {
+            "text_a": "— No soy gordo, soy de huesos anchos.\n— Pues deberías ir al doctor, porque el hueso de la papada se te está saliendo.",
+            "text_b": null,
+            "label": 1
+        },
+        "66": {
+            "text_a": "Los hombres trabajamos y pagamos las cuentas, ponemos el dinero en la mesa. La mujer por más que estudie va terminar mantenida, solo son un vientre con pies que sirve para darnos hijos,\nlavar, planchar, saber cocinar con eso\nnos conformamos, no necesitan estudiar tanto.",
+            "text_b": null,
+            "label": 0
+        },
+        "67": {
+            "text_a": "No insulteis a las BRUJAS...Ellas no eran feminazis",
+            "text_b": null,
+            "label": 1
+        },
+        "68": {
+            "text_a": "-¿Quién cae primero de un edificio de 30 plantas un judio o un negro? ¿y a quien le importa?",
+            "text_b": null,
+            "label": 1
+        },
+        "69": {
+            "text_a": "20 bibainos\n\n¿Tu sabes como meter a 20 bilbainos en un seiscientos? diciendoles que no caben\n\nHASHTAG    vascos  ",
+            "text_b": null,
+            "label": 1
+        },
+        "70": {
+            "text_a": "Chavos, no porque tengan AMS (atracción al mismo sexo) deben comportarse afeminados. Ustedes no son mujeres y nunca lo serán. No hay nada mejor que ser hombre y que te guste ser hombre. Pruébenlo, dejarán de ser la burla o el tema de moda de la colonia.",
+            "text_b": null,
+            "label": 0
+        },
+        "71": {
+            "text_a": "No olvidamos la Maldad del Feminismo y su maltrato a una niña víctima de una trama feminista. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "72": {
+            "text_a": "Había una mujer tan fea, que cuando la llevaron a la casa de los espantos, regresó con una solicitud de empleo.  fb  ",
+            "text_b": null,
+            "label": 1
+        },
+        "73": {
+            "text_a": "El victimismo es la vieja confiable de las feministas URL",
+            "text_b": null,
+            "label": 1
+        },
+        "74": {
+            "text_a": "Existen 3 posibilidades con respecto a la feminazi Natalia Valdebenito: 1. Es tontorrona de nacimiento. 2. El feminismo es una enfermedad mental. 3. Ambas opciones.",
+            "text_b": null,
+            "label": 1
+        },
+        "75": {
+            "text_a": "¿Cuánto es el premio para los transespecies? URL",
+            "text_b": null,
+            "label": 0
+        },
+        "76": {
+            "text_a": "En ámbito  Lgtbi   no es aplicable!",
+            "text_b": null,
+            "label": 0
+        },
+        "77": {
+            "text_a": "No insulteis a las BRUJAS...Ellas no eran feminazis",
+            "text_b": null,
+            "label": 1
+        },
+        "78": {
+            "text_a": "Si Sócrates hubiera sido mujer diría: \"Yo solo sé que no sé qué ponerme\".",
+            "text_b": null,
+            "label": 1
+        },
+        "79": {
+            "text_a": "Mi vecina es tan gorda que primero llena la bañera y después abre el agua by MENTION  fb  ",
+            "text_b": null,
+            "label": 1
+        },
+        "80": {
+            "text_a": "se han vuelto unas mariconas URL",
+            "text_b": null,
+            "label": 0
+        },
+        "81": {
+            "text_a": "\"El sexo biológico es inmutable. No se puede cambiar de sexo, es imposible. La transición no es un cambio de sexo, el problema es que se confunden sexo y género. El sexo es inmutable, y el género responde a los estereotipos que se asocian a cada sexo\" MENTION  Yeahhh   💪💪",
+            "text_b": null,
+            "label": 0
+        },
+        "82": {
+            "text_a": "Cuantos menas te enviamos desde canarias , muchos la mayoría ya saben algo de español y son aplicados y la mayoría educados son supervivientes",
+            "text_b": null,
+            "label": 0
+        },
+        "83": {
+            "text_a": "\"Soy no binario, no me identifico ni como hombre ni como mujer\" \n\n*Procede a ponerle con los hombres y con las mujeres* xd URL",
+            "text_b": null,
+            "label": 0
+        },
+        "84": {
+            "text_a": "Se mamaron con Blancanieves, parece diputado transexual. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "85": {
+            "text_a": "MENTION MENTION Todos deberíamos vivir en castidad. El único sexo seguro es el de hombre y mujer fieles, dentro del matrimonio, y que hayan llegado vírgenes al matrimonio. Nuestra salud vale tanto que no debemos ofrecer menos que eso.\n\nLo de las lesbianas, ni a sexo llega. Ellas se masturban.",
+            "text_b": null,
+            "label": 0
+        },
+        "86": {
+            "text_a": "La estupidez feminazi no tiene límite.\n\nMarlaska exige a la Policía erradicar los términos 'jefe', 'responsable' o 'agente' por ser \"masculinos\"\n\nURL",
+            "text_b": null,
+            "label": 0
+        },
+        "87": {
+            "text_a": "Si el hombre araña... \n\n¿La mujer rasguña?",
+            "text_b": null,
+            "label": 1
+        },
+        "88": {
+            "text_a": "Alguien que me explique por qué ser gay es motivo de orgullo. Orgullo es terminar una carrera, tener un título, logros personales y profesionales.\n\n ¿Pero penetrar a un tipo es motivo de orgullo? Eso da asco pero no orgullo.",
+            "text_b": null,
+            "label": 0
+        },
+        "89": {
+            "text_a": "MENTION Esta gorda viene con los cortes cuidados del gobierno demasiada grasa y poca carne",
+            "text_b": null,
+            "label": 0
+        },
+        "90": {
+            "text_a": "Tiene sentido ya que los niños no tienen la autoconciencia para saber si tiene disforia de genero o no como algunos radicales LGTB+ defienden.\nAunque estos ya adultos si pueden ser diagnosticados con ese trastorno. Y este movimiento no  gusta de esa parte\nURL",
+            "text_b": null,
+            "label": 0
+        },
+        "91": {
+            "text_a": "Mamá, ¡en la escuela me dicen gorda! \n–Pobresilla \n-Ayyy, gracias mamá \n-Pobre silla en la que estás sentada.  x D   HASHTAG    RT  ",
+            "text_b": null,
+            "label": 1
+        },
+        "92": {
+            "text_a": "MENTION Que viva España 🇪🇸 sin tetas no hay Paraíso 🤣🔝 🔝 y viva San Fermina URL",
+            "text_b": null,
+            "label": 1
+        },
+        "93": {
+            "text_a": "¿Por qué los negros huelen mal?\n\nPara que los ciegos también puedan odiarlos.",
+            "text_b": null,
+            "label": 1
+        },
+        "94": {
+            "text_a": "MENTION Que se devuelvan por donde se vinieron aquí no queremos mas inmigrantes, ya estamos demasiado mal para tener que seguir alimentando a parásitos con nuestros impuestos FUERA",
+            "text_b": null,
+            "label": 0
+        },
+        "95": {
+            "text_a": "- ¿Qué es lo bueno de ser negro?\n+ Que no tendrás coronavirus porque nadie se hacercará a ti\n\n Covid  19   HASHTAG    Confinamientototal   HASHTAG   HASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "96": {
+            "text_a": "Pero el sentimiento de inferioridad de las feministas respecto a los hombres, siempre les acompaña URL",
+            "text_b": null,
+            "label": 0
+        },
+        "97": {
+            "text_a": "Soy agnóstico. Ya he firmado.\n¡El MENTION ha organizado un taller de travestismo para niños desde 6 años!\n\nEsto es corrupción de menores y adoctrinamiento.\n\nFIRMA y pide a la Fiscalía que cancele este taller: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "98": {
+            "text_a": "—Estoy en un curso para dejar de ser tan ofensivo y volverme mejor persona.\n—¿Y cómo vas?\n—Mejor que tu dieta, pinche gorda.",
+            "text_b": null,
+            "label": 1
+        },
+        "99": {
+            "text_a": "Bajo 7° y ya tengo frío, así de maricona.",
+            "text_b": null,
+            "label": 1
+        },
+        "100": {
+            "text_a": "Sería una buena psicóloga de lesbianas pero ese trabajo no existe porque las lesbianas no tienen dinero para pagarlas. Y yo no puedo ser una psicóloga para lesbianas porque necesito dinero para comer y pagar la psicóloga de lesbianas no existente. Y ese es el ciclo de la vida.",
+            "text_b": null,
+            "label": 0
+        },
+        "101": {
+            "text_a": "MENTION MENTION Será bisexuales, las lesbianas cómo que no😂",
+            "text_b": null,
+            "label": 0
+        },
+        "102": {
+            "text_a": "Que se haga coger la xenofobia y el racismo, vos también inadi hijo de mil puta, tienen que prohibirle la entrada a estos inmigrantes de mierda",
+            "text_b": null,
+            "label": 0
+        },
+        "103": {
+            "text_a": "Como las mujeres quieren que respondamos siempre URL",
+            "text_b": null,
+            "label": 0
+        },
+        "104": {
+            "text_a": "Hoy un cliente me contó que unos negros de mierda le robaron en el nueva esperanza, y además lo cagaron a palos..le quebraron costillas, le hicieron mucho daño y ustedes todavía no se convencen de que hay que eliminar uno por uno a estos hdp?",
+            "text_b": null,
+            "label": 0
+        },
+        "105": {
+            "text_a": "ser sudaca…",
+            "text_b": null,
+            "label": 0
+        },
+        "106": {
+            "text_a": "MENTION Que inventen una categoría para \"trans\" en los deportes y así cada quién en su lugar.",
+            "text_b": null,
+            "label": 0
+        },
+        "107": {
+            "text_a": "Repito:\nPara que se pueda abortar tiene que haber un embarazo primero. Habría que tener estomago para embarazar a una Feminazi sobaco peluo, y no solo me refiero a lo físico. Estos especímenes abandonados por su padre son inaguantables.",
+            "text_b": null,
+            "label": 0
+        },
+        "108": {
+            "text_a": "MENTION Hay que hacer algo con esto. No puede quedar así. Han cogido a una pequeña, la han violado, torturado y descuatrizado cuatro moros ilegales. Esto no puede ser.  Lola  ",
+            "text_b": null,
+            "label": 0
+        },
+        "109": {
+            "text_a": "MENTION MENTION Si a la gorda de Ranma, que pesa 150 kilos, de un derechazo lo mandé al hospital, no sé qué pasaría contigo y tus 60 años y 50 kilos, esgolodrobo.",
+            "text_b": null,
+            "label": 0
+        },
+        "110": {
+            "text_a": "Entre amigas: -Sara tiene síndrome de abeja -¿Por qué? -Se cree toda una reina pero es sólo un bicho!",
+            "text_b": null,
+            "label": 1
+        },
+        "111": {
+            "text_a": "cuales son los juegos favoritos de los africanos? No se cual? Los juegos del hambre.",
+            "text_b": null,
+            "label": 1
+        },
+        "112": {
+            "text_a": "Soy un hombre no un marica con falda y moños :)",
+            "text_b": null,
+            "label": 0
+        },
+        "113": {
+            "text_a": "Necesito que me reanimen... ire a la misma terapia de mi amigas a gastarme la plata ajena.",
+            "text_b": null,
+            "label": 1
+        },
+        "114": {
+            "text_a": "Car o\n\n cariño!! a partir de ahora te llamare eva!! ?por que? porque eres mi primera mujer ?ah si? pues zo te llamare peugeot!! ?por que mi vida? porque eres el 406\n\nHASHTAG    feminist as  ",
+            "text_b": null,
+            "label": 0
+        },
+        "115": {
+            "text_a": "MENTION Jjaaja eres trans nunca tendras derechos",
+            "text_b": null,
+            "label": 1
+        },
+        "116": {
+            "text_a": "MENTION MENTION Yo igual pinché gorda",
+            "text_b": null,
+            "label": 0
+        },
+        "117": {
+            "text_a": "Feminazis:\"El futuro será feminista\".\n\nEl futuro: URL",
+            "text_b": null,
+            "label": 1
+        },
+        "118": {
+            "text_a": "MENTION MENTION Mi abuela decia: “ a la larga el negro siempre destiñe…”",
+            "text_b": null,
+            "label": 0
+        },
+        "119": {
+            "text_a": "Piensa feminista, piensa 😤 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "120": {
+            "text_a": "El Kebab cuanto más guarro mejor, y cuanto más imbécil sea el pakistaní que te atiende mejor. Y si se rasca el culo y luego toca el pan de pita es increíblemente mejor, y si el suelo del local está enganchifoso ya es el acabose de la perfección.",
+            "text_b": null,
+            "label": 1
+        },
+        "121": {
+            "text_a": "El feminismo moderno, un movimiento encaminado a acabar con las graves desigualdades que afectan al sexo femenino hoy en día, es decir: que a ellas les sirvan la ensalada y a ellos las mollejas.",
+            "text_b": null,
+            "label": 0
+        },
+        "122": {
+            "text_a": "MENTION Solo con esa denuncia, la mujer ya será considerada una mujer maltratada aunque sea mentira, y todo gracias a las políticas del acusado, diputado de Unidas Podemos.\nA disfrutar de vuestras leyes.\n\nSe puede ser mujer maltratada sin que su marido sea un maltratador?\n\nNo!!",
+            "text_b": null,
+            "label": 0
+        },
+        "123": {
+            "text_a": "Imagina pensar que la vida de las mujeres sólo se centra en buscar aprobación masculina 🙄: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "124": {
+            "text_a": "Las tribus urbanas son para personas acomplejadas que nunca han encajando en ningún sitio ni grupo.\nInfelices que se agarran con fuerza a lo primero que pillan y se dejan llevar por muy locas que sean sus ideas.\n\nEso es el ultrafeminismo actual.\n\nURL",
+            "text_b": null,
+            "label": 0
+        },
+        "125": {
+            "text_a": "Que dice la Feministra, que a los bebés cuando les van a dar el pecho hay que atarlos, porque están más aterrados que si soñaran con Freddy Krueger.",
+            "text_b": null,
+            "label": 0
+        },
+        "126": {
+            "text_a": "\"Es que cuando los inmigrantes son blancos no os quejáis\" amigo no puedo expresar con palabras el asco que siento viendo la universidad llena de sajones",
+            "text_b": null,
+            "label": 0
+        },
+        "127": {
+            "text_a": "Yo haciéndo galletas*\n\nCerebro: Deja el teléfonito guanaja, que se te queman\nNariz: Nah, todavía faltan\nOjos: Eso no es quemado, eso es un ligero tostado\nEstómago: Dale prueba una (después de 10)\nCerebro: Para de comer gorda!!\nCandela: ay me aburro, y si te las quemo...",
+            "text_b": null,
+            "label": 0
+        },
+        "128": {
+            "text_a": "La RAE acaba de confirmar que el sinónimo de fregar o limpiar sea mujer o persona de sexo femenino",
+            "text_b": null,
+            "label": 0
+        },
+        "129": {
+            "text_a": "si una menor de edad me viniera a pedir ayuda porque esta siendo victima dr acoso sexual, le escupiría en la cara",
+            "text_b": null,
+            "label": 0
+        },
+        "130": {
+            "text_a": "Los LGBTQWERTY son una mafia de psicópatas con ínfulas de dictadores, representan la represión pintada con chispas de colores",
+            "text_b": null,
+            "label": 0
+        },
+        "131": {
+            "text_a": "MENTION Yo he tropezado con mi puñetero gato que siempre anda trasteando con mis pies.\nNo me he roto la cadera de milagro.\nTienes razón, es violencia machista.\nEl lunes voy derecha a denunciar el maltrato sistemático de mi gato que encima se empeña en dormir en mi cama.",
+            "text_b": null,
+            "label": 0
+        },
+        "132": {
+            "text_a": "Pasar de un iPhone 5 a un 6, es como cambiar a tu novia flaca por una gorda.",
+            "text_b": null,
+            "label": 1
+        },
+        "133": {
+            "text_a": "🇺🇦 Las ucranianas en primera línea defendiendo la libertad y la soberanía de su Patria.\nAlguien se imagina a las feminazis de aquí alistándose para defender la españolidad de Ceuta y Melilla llegado el momento? Yo tampoco.",
+            "text_b": null,
+            "label": 0
+        },
+        "134": {
+            "text_a": "En definitiva, en mi opinión: como feminista que eres, no te importa la libertad de las mujeres URL",
+            "text_b": null,
+            "label": 0
+        },
+        "135": {
+            "text_a": "Ahora que Twitter está liberado, voy a detallar algunas verdades:\n\n•Las mujeres tienen vagina.\n\n•Los hombres tienen pene.\n\nGracias por su atención. \nRT si está de acuerdo.",
+            "text_b": null,
+            "label": 0
+        },
+        "136": {
+            "text_a": "\"Sabías que los negros se asustan cuando tienen diarrea porque piensan que se están derritiendo\"",
+            "text_b": null,
+            "label": 1
+        },
+        "137": {
+            "text_a": "Tiraron al negro a la via del tren contraria (por suerte cayó de pie y sin que pasasen trenes) pero en ese momento de caer, antes de que levantase la cabeza, uno de los moros fue a patearle la cabeza (modus operandi habitual de golpear cuando el otro está con la guardia baja)",
+            "text_b": null,
+            "label": 0
+        },
+        "138": {
+            "text_a": "MENTION MENTION MENTION MENTION Déjala, sin celos. Y eso que le toco las tetas y le beso en la boca.",
+            "text_b": null,
+            "label": 0
+        },
+        "139": {
+            "text_a": "En qué momento dejas de parecer simpática a bollera y viceversa? Que lio",
+            "text_b": null,
+            "label": 0
+        },
+        "140": {
+            "text_a": "— ¿Qué queremos? \n— ¡La cura para los celos!\n— ¿Cuándo la queremos? \n— ¡Después de asesinar a esas perras!",
+            "text_b": null,
+            "label": 1
+        },
+        "141": {
+            "text_a": "\"Veo que comediantes supér \"atrevidos\" que antes hacían chistes con misoginia de los ochenta ahora están sintiéndose modernos por hacer chistes con transfobia de los noventa. Ya casi llegan a la edad actual. ¡Felicidades! \"",
+            "text_b": null,
+            "label": 0
+        },
+        "142": {
+            "text_a": "¿Por qué a las feministas les da tanto miedo no autoengañarse? URL",
+            "text_b": null,
+            "label": 0
+        },
+        "143": {
+            "text_a": "Mujeres, si buscan un hombre tierno, romántico, lindo y detallista, les informo que esos hombres ya tienen NOVIO.",
+            "text_b": null,
+            "label": 1
+        },
+        "144": {
+            "text_a": "No todos los inmigrantes ilegales son delincuentes, algunos además son sucios e hijos de puta.",
+            "text_b": null,
+            "label": 0
+        },
+        "145": {
+            "text_a": "Un hombre que adivina correctamente la edad de una mujer puede que sea listo, pero no es muy brillante. -Lucille Ball",
+            "text_b": null,
+            "label": 1
+        },
+        "146": {
+            "text_a": "—Amor, dime algo que me vuelva loca. —¡Mira! Esa mujer tiene el mismo vestido que tú.",
+            "text_b": null,
+            "label": 1
+        },
+        "147": {
+            "text_a": "Lo de las imágenes que hicieron las feminazis que administran URL como que todo lo que dice el profeta Daniel de los capítulos 7 en adelante, cobra mucho sentido.",
+            "text_b": null,
+            "label": 0
+        },
+        "148": {
+            "text_a": "Me da miedo acabar siendo unan lesbiana de verdad y tener una relación a distancias",
+            "text_b": null,
+            "label": 0
+        },
+        "149": {
+            "text_a": "“Hasta el más ateo se ampara a Dios cuando un chino le tose al lado.”  Memes Racistas  ",
+            "text_b": null,
+            "label": 0
+        },
+        "150": {
+            "text_a": "Una feminazi se me ha puesto tonta y se lo he tenido que explicar",
+            "text_b": null,
+            "label": 0
+        },
+        "151": {
+            "text_a": "MENTION MENTION MENTION Ya lo leí y lo entendí tan violenta las feminazis no? \nnadie te obliga a ir a una iglesia como el 99% de las personas normales pero le tienen tanto rencor ala religión para colmo a una sola pero si aceptan el budismo en sus marchas que contradictorias son 😂 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "152": {
+            "text_a": "-Oye, ¿quién te gusta más, Nataly o Carla? -Pues me gusta más Carla, ¿a ti? -¿¡MASCARLA!? JAJAJAJA NO MAMES, MALDITO GAY.",
+            "text_b": null,
+            "label": 1
+        },
+        "153": {
+            "text_a": "El feminismo es un negocio que se beneficia del sufrimiento de las mujeres: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "154": {
+            "text_a": "¡A ver si te enteras que solo las mujeres podemos burlarnos de los onvres! 😡 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "155": {
+            "text_a": "«Les dijeron que el hombre era el enemigo, que había que competir con él. Y ahora, a los 40, a los 50, a los 60 años tantas mujeres se encuentran solas a las puertas de una larga vejez que será aún más deprimente porque no tienen familia que las acompañe». URL",
+            "text_b": null,
+            "label": 0
+        },
+        "156": {
+            "text_a": "Ah, que ahora resulta que decir \"mi chica\" es ofensivo para progres y feministas porque mi chica no es de mi propiedad. Entiendo. Pues yo ahí me libro porque siempre le digo mi culo gordo. Por una vez hago algo que no les molesta, qué alivio.",
+            "text_b": null,
+            "label": 0
+        },
+        "157": {
+            "text_a": "👇👇\nFraser: El feminismo liberal persigue liberar a unas pocas a costa de muchas URL a través de MENTION",
+            "text_b": null,
+            "label": 0
+        },
+        "158": {
+            "text_a": "MENTION Y va a resultar que el diablo es negro y vamos a sufrir el doble😂😂😂",
+            "text_b": null,
+            "label": 0
+        },
+        "159": {
+            "text_a": "los gallegos usan solamente la letra 'T' en sus agendas de teléfonos:\n- Teléfono de Pedro, teléfono de luis, teléfono de .. HASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "160": {
+            "text_a": "MENTION Los menores de edad también son denunciados y condenados por violencia de género.\nLas feminazis no excluyen a nadie.",
+            "text_b": null,
+            "label": 0
+        },
+        "161": {
+            "text_a": "MENTION Si los chinos no están a favor de la homosexualidad y luego hacen esto, me están enviando mensajes contradictorios URL",
+            "text_b": null,
+            "label": 0
+        },
+        "162": {
+            "text_a": "-¡Pasen y vean al LEÓN MARINO!\n-Paco, que es mi madre nadando en la piscina\n-Ya llevo 500€ \n-!PASEN Y VEAN! señoras y señores,¡PASEN Y VEAN!",
+            "text_b": null,
+            "label": 1
+        },
+        "163": {
+            "text_a": "Te llevan vendiendo que todo es culpa de señoros machistas y la mayoría de las rebajas de penas a los violadores las han firmado juezas. Y ellas no tienen ninguna culpa. Simplemente aplican la ley actual que han hecho los lumbreras del gobierno actual.",
+            "text_b": null,
+            "label": 0
+        },
+        "164": {
+            "text_a": "Porqué loco, porque existen estos negros de mierda!! Porqué no se terminan de una ves???",
+            "text_b": null,
+            "label": 0
+        },
+        "165": {
+            "text_a": "Otro caso de seres de luz que matan a su cría por culpa del patriarcado (ya sabemos que las mujeres no hacen esto, la violencia vicaria es de hombres).\n\nPor cierto, conociendo cómo suelen ser este tipo de casos haced un ejercicio de imaginar la cara de las implicadas. Acertareis. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "166": {
+            "text_a": "MENTION MENTION MENTION MENTION MENTION MENTION MENTION MENTION MENTION MENTION MENTION MENTION Claro que no es feminista, ella sí aboga y lucha por los derechos de las mujeres, incluidas las que están por nacer.\n\nSi fuera feminista abortera, sería antiderechos, como tú que eres antiderecho a la vida.",
+            "text_b": null,
+            "label": 0
+        },
+        "167": {
+            "text_a": "Hay moros buenos que han venido a España a trabajar, llevan a sus hijos al colegio y viven como cualquier español. Perfecto.\n\nPero también hay moros mayores y menas que han venido a vivir no como españoles normales sino como delincuentes. Estos a su país.\n\n¿Eso es racismo? Ok.",
+            "text_b": null,
+            "label": 0
+        },
+        "168": {
+            "text_a": "MENTION MENTION El día que me vestí de transexual en la verbena de mi pueblo tenía más glamour que tú.",
+            "text_b": null,
+            "label": 1
+        },
+        "169": {
+            "text_a": "Día 25\n\nTío, que sepas que eres un racista.\n- Yo no soy racista, si los moros tienen hambre, que se coman a los gitanos.\n\nHASHTAG   HASHTAG   HASHTAG   MENTION",
+            "text_b": null,
+            "label": 1
+        },
+        "170": {
+            "text_a": "Amigo, estás tan feo que si se te cae el jabón en la cárcel, te ayudan a levantarlo.",
+            "text_b": null,
+            "label": 1
+        },
+        "171": {
+            "text_a": "3+2 por le culo\n\nEsto es un marica que le dice a un imbecil: 3+2 este le contesta: 4 el marica vuelve adecir: por el culo te la hinco\n\nHASHTAG    homosexuales  ",
+            "text_b": null,
+            "label": 1
+        },
+        "172": {
+            "text_a": "MENTION MENTION Y eso que yo no soy tan creyente o el papa en persona pero se cuando una feminista trata de transgiversar algo para quedar bien con su comunidad 😄 ke es de lo que hablo, aceptarían a 1 macho en su comunidad? ke las golpee en la espalda fuerte como los machos?? eso creí ¡Salu2!😉",
+            "text_b": null,
+            "label": 0
+        },
+        "173": {
+            "text_a": "“El sexo para las mujeres ha sido siempre un trabajo” | MENTION  MENTION URL",
+            "text_b": null,
+            "label": 0
+        },
+        "174": {
+            "text_a": "Que pena de trozo de carne ...le faltan dos hervores... En fin... pobrecita... Sólo le falta enseñar una ecografía de su útero.",
+            "text_b": null,
+            "label": 0
+        },
+        "175": {
+            "text_a": "MENTION Cuando Argentina gane el Mundial, esto de defender la homosexualidad del otro se termina, ¿no?...😉",
+            "text_b": null,
+            "label": 0
+        },
+        "176": {
+            "text_a": "balon de oro femenido, existe el futbol femenino en lo profecional? bueno las feministas con su machismo imponiendo premios politicos. pobre alexa la usan como objeto por la feministas. ahora que no venga que es el personaje del año veo venir.como el feminismo demigra a la mujer",
+            "text_b": null,
+            "label": 0
+        },
+        "177": {
+            "text_a": "* C291C29 estoy gorda?\n– No, amor.\n+ Dímelo en el oído.C29\n– Amor, no estás gorda.\n+ Dímelo en el otro oído.\n– Coño, me vas a poner a dar tooodaaa esa vuelta?",
+            "text_b": null,
+            "label": 1
+        },
+        "178": {
+            "text_a": "ojalá te mueras tú maricón de mierda que no aprecias lo que tienes y es la única persona que te va a soportar",
+            "text_b": null,
+            "label": 0
+        },
+        "179": {
+            "text_a": "No verás una mira en ninguno de ellos pero moros !!! Todos los q quieras y más. Banda de violadores URL",
+            "text_b": null,
+            "label": 0
+        },
+        "180": {
+            "text_a": "Los terapeutas hacen un montón de preguntas carísimas que una esposa te las hace gratis",
+            "text_b": null,
+            "label": 1
+        },
+        "181": {
+            "text_a": "El feminismo no te empodera, te enseña a victimizarte por ser mujer.\n\nEl feminismo no te libera, te hace esclava del odio hacia los hombres.\n\nEl feminismo no te protege, sólo te ayuda a abortar.\n\nEl feminismo te usa.\n\nPerdón por ser demasiadamente no esto.",
+            "text_b": null,
+            "label": 0
+        },
+        "182": {
+            "text_a": "Y sin cerebro, sino que le pregunten a las feministas 😏 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "183": {
+            "text_a": "De Joan a Sandra, historia de una trans operada y arrepentida: \"Me dijeron que había nacido en un cuerpo equivocado y les creí\" URL Water &amp; garlic",
+            "text_b": null,
+            "label": 0
+        },
+        "184": {
+            "text_a": "El 98% de los negros disfrutan del sexo en la ducha. El otro 2% aún no están en la cárcel.",
+            "text_b": null,
+            "label": 1
+        },
+        "185": {
+            "text_a": ". Por que a los gallegos no les gusta subirse a la\nplanta alta de los buses de dos pisos?\n… porque el piso superior no tiene chofer.",
+            "text_b": null,
+            "label": 1
+        },
+        "186": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION MENTION\nCuando una feminista te saca un cuchillo para atacarte, pero tu le pones un chorizo y pan delante y por instinto te prepara un sándwich",
+            "text_b": null,
+            "label": 1
+        },
+        "187": {
+            "text_a": "Están dos albañiles en una construcción y el uno le dice al otro: -Lánzame un pico. Y el otro: -Muaaack!  fb  ",
+            "text_b": null,
+            "label": 1
+        },
+        "188": {
+            "text_a": "Que es un negro en la nieve? Un blanco perfecto",
+            "text_b": null,
+            "label": 1
+        },
+        "189": {
+            "text_a": "Los moros de mierda si se muerden la lengua, se mueren y todo.",
+            "text_b": null,
+            "label": 0
+        },
+        "190": {
+            "text_a": "MENTION En cuanto me intenté joder la vida una golfa, me declaro mujer y soy inimputable, hermana. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "191": {
+            "text_a": "Cual es la diferencia entre los ascensores españoles y los africanos? No se cual? En España son 400 kg 6 personas y en africa son 400 personas 6 kg.",
+            "text_b": null,
+            "label": 1
+        },
+        "192": {
+            "text_a": "MENTION Si no eres la clase de homosexual que ellos quieren que seas es porque no sabes ser homosexual. Así son.",
+            "text_b": null,
+            "label": 0
+        },
+        "193": {
+            "text_a": "Discutir con una mujer es como ser atacado por un oso, lo mejor es hacerse el muerto con la esperanza de que se aburra y se vaya!",
+            "text_b": null,
+            "label": 1
+        },
+        "194": {
+            "text_a": "Thank god he's straight because I'd be embarrassed to hear this sort of nonsense coming from a gay man. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "195": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION MENTION\nTener tetas porque estas gorda es como decir que yo la tengo grande porque ella tiene 5 años.",
+            "text_b": null,
+            "label": 1
+        },
+        "196": {
+            "text_a": "El aliade menos desesperado por ligar con feministas be like: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "197": {
+            "text_a": "Seguro eres homosexual. La izquierda te está usando. Sigue mordiendo almohada. La pollita no es para ti",
+            "text_b": null,
+            "label": 0
+        },
+        "198": {
+            "text_a": "—Me voy a meter en un lío.\n—¿En un problema?\n—No, en un lío a bañalme.\n—JAJAJAJA chino, eres un pinche desmadre.\n—Lo sé. Soy telible!",
+            "text_b": null,
+            "label": 1
+        },
+        "199": {
+            "text_a": "En qué se parecen los dinosaurios y las mujeres inteligentes?\nEn que los dos se extinguieron.",
+            "text_b": null,
+            "label": 1
+        },
+        "200": {
+            "text_a": "En Afganistán y en Irak, mueren cientos de mujeres.\nAquí bailamos y enseñamos las tetas, porque somos feministas y todo eso.",
+            "text_b": null,
+            "label": 0
+        },
+        "201": {
+            "text_a": "Ni el FBI, CIA u otro departamento tienen la determinación y empeño en encontrar lo que buscan como una mujer cuando sigue el rastro de algo",
+            "text_b": null,
+            "label": 1
+        },
+        "202": {
+            "text_a": "Un hombre que es golpeado por una mujer también se vuelve víctima de la sociedad, es motivo de burla, discriminación.\n\nCuando una mujer es golpeada por un hombre hay solidaridad, empatía, se le ayuda. Aún así el feminismo se atreve a decir que todos los hombres somos feminicidas. URL URL",
+            "text_b": null,
+            "label": 0
+        },
+        "203": {
+            "text_a": "Si no sos blanco deberias estar muerto. Viva hitler",
+            "text_b": null,
+            "label": 0
+        },
+        "204": {
+            "text_a": "Que paja cuando sabes que estás gordo pero te da más paja hacer dieta así que seguis igual de gordo",
+            "text_b": null,
+            "label": 0
+        },
+        "205": {
+            "text_a": "He visto maricones en tiktok currandose más los looks basandose en Monster high",
+            "text_b": null,
+            "label": 0
+        },
+        "206": {
+            "text_a": "Mi política de seguimiento:-Twiteas bien - Estás tocho-Estás loco -Mujer fértil que puede servir para los campos de Natalidad",
+            "text_b": null,
+            "label": 0
+        },
+        "207": {
+            "text_a": "MENTION Es lo mismo que cuando el feminismo dice defender a las mujeres corazon!!! Defienden tambien a la mujer asesina, a la violenta, a la abusadora? Nadie habla de matar, se habla de tener herramientas para defendernos. Deja de decir ridiculeces en publico.",
+            "text_b": null,
+            "label": 0
+        },
+        "208": {
+            "text_a": "“O adivinas porqué estoy enojada o me enojo más”\n\n-Lógica femenina.",
+            "text_b": null,
+            "label": 1
+        },
+        "209": {
+            "text_a": "El negro no es triste, es poético.El negro no es triste, es poético.",
+            "text_b": null,
+            "label": 0
+        },
+        "210": {
+            "text_a": "MENTION MENTION La jueza feminazi.",
+            "text_b": null,
+            "label": 0
+        },
+        "211": {
+            "text_a": "Como me caga leer eso de \"feminismo radical\". Es feminismo y punto. Las feministas que no traen pelos pintados, que no van desnudas sino bien vestidas, son educadas, cultas y no gritan muerte al macho son igual o más peligrosas. Y a ellas llamas feminismo moderado o real.",
+            "text_b": null,
+            "label": 0
+        },
+        "212": {
+            "text_a": "¿Quieren igualdad? Pues que se les juzgue por igual. Si las feministas radicales que agredieron al señor no pasan algunos unos años en la cárcel daremos por entendido que no existe la justicia en este país. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "213": {
+            "text_a": "Hoy he intentado combinar mi ropa pero no he podido porque necesita ponerme mis pantalones negros y ya no me entran por estar gordo obeso como un elefante gordo",
+            "text_b": null,
+            "label": 0
+        },
+        "214": {
+            "text_a": "Que se vayan a Mamarla todos estos moros que asco de gentuza .🤮 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "215": {
+            "text_a": "¿ Que es una muijer lesbiana con las uñas largas?. Soltera",
+            "text_b": null,
+            "label": 1
+        },
+        "216": {
+            "text_a": "Si las mujeres gobernaran no habría III Guerra Mundial sólo grupitos de países hablando mal de otros y sonriéndose entre sí.",
+            "text_b": null,
+            "label": 1
+        },
+        "217": {
+            "text_a": "MENTION MENTION  Ideologia De Genero  \nSin importar lo que digan o no miles de seguidores idiotizados de la cultura  Woke  . La biología define claramente que es un  Hombre   y una  Mujer  !",
+            "text_b": null,
+            "label": 0
+        },
+        "218": {
+            "text_a": "MENTION MENTION El feminismo solo es problema en las redes sociales,  en la vida real la cosa cambia.",
+            "text_b": null,
+            "label": 0
+        },
+        "219": {
+            "text_a": "Tengo que aceptar algo: hace 2 años cuando fue el paro nacional del 9 de marzo, yo no lleve a mi hija al colegio, no porque apoyara esas fregaderas jajaaj sino por floja y quería dormir más. Me disculpo si las maestras pensaron que yo era feminista! Uffff lo tenía que sacar!!!",
+            "text_b": null,
+            "label": 0
+        },
+        "220": {
+            "text_a": "gente queria decir algo serio: soy TRANSEXUAL porfavor no me dejeis de seguir…dicho esto alguna quiere hacer la tijera ?",
+            "text_b": null,
+            "label": 0
+        },
+        "221": {
+            "text_a": "MENTION MENTION Esmeralda ahora es Esmeraldo o sea jombre y trapo por la sagrada ley de USA cada serie debe tener su Gay empoderado y genérico no... we pinche pendejo no inclusivo homofobico de mierda Diputade alv URL",
+            "text_b": null,
+            "label": 0
+        },
+        "222": {
+            "text_a": "He visto a mi vecino moro sacudiendo la alfombra en la puerta de la calle y le he preguntado, \"¿Que pasa, no arranca no?\"",
+            "text_b": null,
+            "label": 0
+        },
+        "223": {
+            "text_a": "Como siempre digo -1 Si no les gusta a los negratas que se regresen a África.",
+            "text_b": null,
+            "label": 0
+        },
+        "224": {
+            "text_a": "- ¡Las mujeres somos iguales, que digo, mejores que los hombres!\n- Bien\n- ¡Queremos que nos rebajen las exigencias en las pruebas físicas de acceso!\n- 😳",
+            "text_b": null,
+            "label": 1
+        },
+        "225": {
+            "text_a": "gorda celulitica es mi nuevo insulto favorito",
+            "text_b": null,
+            "label": 0
+        },
+        "226": {
+            "text_a": "Están creando sociedades de gafos y maricones. Mis hijos se caían a cońazos en la escuela si les echaban mucha vaina y así casi todos los muchachos. Crecieron con carácter fuerte y guerrero. Son personas centradas y decididas que le echan bolas a la vida y no andan lloriqueando!",
+            "text_b": null,
+            "label": 0
+        },
+        "227": {
+            "text_a": "La feminazi y su insaciable avaricia.\n\n¿En qué consiste la maniobra de Sánchez para asignar un cargo vitalicio a Fernández de la Vega? \nURL",
+            "text_b": null,
+            "label": 0
+        },
+        "228": {
+            "text_a": "traficovhsa_ TRANSPORTE: COMBI VERDE DE LAS \"MERCEDES\"SEÑORITAS, JOVENCITAS Y SEÑORAS: Tengan cuidado con el CHOFER d la combi No. 03 d la RUTA: LAS MERCEDES-PARRILLA. El chofer (un gordo) es una persona MUY GROSERA, VULGAR Y LÉPERA y si le reclamán se comporta d forma VIOLENTA URL",
+            "text_b": null,
+            "label": 0
+        },
+        "229": {
+            "text_a": "Feministas: los hombres nos quieren calladas y sumisas.\n\nAlso feministas: URL",
+            "text_b": null,
+            "label": 1
+        },
+        "230": {
+            "text_a": "PROSTITUTA: Mujer que al desvestirse queda en ropa de trabajo.",
+            "text_b": null,
+            "label": 1
+        },
+        "231": {
+            "text_a": "No te sientas diferente, da igual si eres negro, amarillo o normal.",
+            "text_b": null,
+            "label": 1
+        },
+        "232": {
+            "text_a": "Veo a mucha gente que no sabe posicionarse en esta guerra y lo veo normal al no haber moros en ninguno de los bandos.",
+            "text_b": null,
+            "label": 0
+        },
+        "233": {
+            "text_a": "ASI SE FABRICA UNA \"DENUNCIA FALSA\" DE UNA MUJER A UN HOMBRE EN PLENA CALLE DEL CENTRO DE UNA CIUDAD\n\nURL\n\nAsi de fácil puede ser arruinarle la vida a un hombre con una denuncia falsa de violencia de \"género\" feminista.",
+            "text_b": null,
+            "label": 0
+        },
+        "234": {
+            "text_a": "Hoy es Día de la Mujer, No día del feminismo.",
+            "text_b": null,
+            "label": 0
+        },
+        "235": {
+            "text_a": "Urge legislar para que se esterilicen feminazis, y que se prohíba el aborto.",
+            "text_b": null,
+            "label": 0
+        },
+        "236": {
+            "text_a": "Pocas cosas son tan hipócritas como una feminista diciendo: \"esas no son formas\"",
+            "text_b": null,
+            "label": 0
+        },
+        "237": {
+            "text_a": "MENTION MENTION \"es súper pro vida, en todo su explendor, tipo no está de acuerdo con el aborto legal,con la gente gay\" \n\nGente Gay no estoy deacuerdo con que muevas la salchica en via publica. \nGente Gay: no pus pinche rasista matate alv 😘\nYo: okay URL",
+            "text_b": null,
+            "label": 0
+        },
+        "238": {
+            "text_a": "Mamá ¿compraste mi vestido de XV años? —NO. —¿Y las zapatillas? —NO. —¿Y los aretes? —Tampoco. —¿Por qué mamá? —Porque NO, Alan Daniel.  x D  ",
+            "text_b": null,
+            "label": 1
+        },
+        "239": {
+            "text_a": "Día 70\n\nEl otro día vi a un negro con un cohe. Pense que era el mio y me fui corriendo al garaje. Que susto! El negro seguía encadenado\n\nHASHTAG   HASHTAG   HASHTAG   HASHTAG  ",
+            "text_b": null,
+            "label": 0
+        },
+        "240": {
+            "text_a": "“Las mujeres no deberían exigir equidad salarial siendo que los puestos que consiguen en las empresas se los han ganado dando el culo”.",
+            "text_b": null,
+            "label": 0
+        },
+        "241": {
+            "text_a": "MENTION MENTION MENTION sos negro amigo, no tenes opinión xd",
+            "text_b": null,
+            "label": 0
+        },
+        "242": {
+            "text_a": "Es una auténtica guerra mundial contra los cristianos. Y aquí, todos los partidos, salvo VOX, callados, cobardes, y encima llamando a la llegada masiva de los inmigrantes. \n\nNigeria, Congo, Yemen, Etiopía, Eritrea, Malí….las OOII globalistas mirando bien orondas. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "243": {
+            "text_a": "MENTION Cállate gay conchetumare",
+            "text_b": null,
+            "label": 1
+        },
+        "244": {
+            "text_a": "_x0097_ Hija,¿Qué quieres de cumpleaños? _x0097_ Un dinosaurio.-Pero eso es imposible _x0097_ Quisiera ser guapa. _x0097_ ¿Qué Dinosaurio te gusta más?",
+            "text_b": null,
+            "label": 1
+        },
+        "245": {
+            "text_a": "Malditos putos negros de mierda",
+            "text_b": null,
+            "label": 0
+        },
+        "246": {
+            "text_a": "MENTION Ni que fuera 007 la gorda bailarina",
+            "text_b": null,
+            "label": 0
+        },
+        "247": {
+            "text_a": "MENTION MENTION MENTION El año que viene esas tetas tendrán dueño",
+            "text_b": null,
+            "label": 0
+        },
+        "248": {
+            "text_a": "Resto del mundo :\n- Bienvenidos a la clase de mates\n\n🇺🇸 Estados Unidos :\n- Bienvenidos a la clase de tiro a larga distancia\n\n🇨🇴 Colombia :\n- Bienvenidos a la clase de desintoxicación \n\n🇸🇾 Siria :\n- Bienvenidos a la clase de detección de explosivos\n\nHASHTAG    HASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "249": {
+            "text_a": "Voy a Pasco y Salta y se llena de negros, todos unos negros de mierda, ojalá se extingan son una plaga, no puedo pasar por la calle sin miedo de que me robe un negro hijo de puta, ojalá mejore este país y los maten a todos los negros vagos.",
+            "text_b": null,
+            "label": 0
+        },
+        "250": {
+            "text_a": "Hoy es buen día para ser gay",
+            "text_b": null,
+            "label": 0
+        },
+        "251": {
+            "text_a": "MENTION Aquí el problema es que usan las lenguas cooficiales para agredir a la oficial o materna, si vascos, catalanes, gallegos y vete tú a saber quien más fueran menos arrogantes quizá el resto del país les interesara su lengua",
+            "text_b": null,
+            "label": 0
+        },
+        "252": {
+            "text_a": "Ser homosexual y ser bugarron es pecado y si mi Dios no me deja entrar a su Gloría no será por esa enfermedad 🤮",
+            "text_b": null,
+            "label": 0
+        },
+        "253": {
+            "text_a": "Las feminazis en Ucrania... URL",
+            "text_b": null,
+            "label": 1
+        },
+        "254": {
+            "text_a": "Se viene el segundo round de  Disney Gay   con una peli romántica para adolescentes con  Ideologia De Genero    BOICOTDISNEY   💪🏻💪🏻\n\nURL",
+            "text_b": null,
+            "label": 0
+        },
+        "255": {
+            "text_a": "¿Por qué los huevos kinder son negros por fuera y blancos por dentro?\n\n– Porque si fuera negro por dentro se robaría la sorpresa.",
+            "text_b": null,
+            "label": 1
+        },
+        "256": {
+            "text_a": "Mujeres: ojalá los hombres fueran tan románticos como en los años 50.\nHombres cuando su mujer salia de la cocina:",
+            "text_b": null,
+            "label": 0
+        },
+        "257": {
+            "text_a": "Por hijo de puta, negro de mierda",
+            "text_b": null,
+            "label": 0
+        },
+        "258": {
+            "text_a": "Putin al ver que es gay si invade Ucrania",
+            "text_b": null,
+            "label": 0
+        },
+        "259": {
+            "text_a": "Ya falta poco para que salgan las feminazis a justificar la violencia en 8m, lo curioso es que son las mismas que dicen que los hombres son violentos por lo acontecido en Querétaro",
+            "text_b": null,
+            "label": 0
+        },
+        "260": {
+            "text_a": "No conozco la primera Feminazi que sea feliz, agradable y de buen humor... Todas son un montón de tristes, insufribles y amargadas de mierda.",
+            "text_b": null,
+            "label": 0
+        },
+        "261": {
+            "text_a": "Hipocresía feminazi. 😂",
+            "text_b": null,
+            "label": 0
+        },
+        "262": {
+            "text_a": "Los Mojinos que siempre fueron unos adelantados ya hicieron un tema dedicado a la Ley trans.\nURL\nQueremos ser, queremos ser\nBurbujitas del anuncio de Freixenet\n🎶",
+            "text_b": null,
+            "label": 0
+        },
+        "263": {
+            "text_a": "¿Qué hay feministas que buscan la igualdad? No lo niego\n\n¿Qué la inmensa mayoría de ellas sólo buscan la supremacía de la mujer sobre el hombre? Evidentemente \n\nSigo sin entender porque las feministas se ofenden con estas afirmaciones URL",
+            "text_b": null,
+            "label": 0
+        },
+        "264": {
+            "text_a": "Y el hombre mata a una mujer por ser mujer. Pero la mujer mata a un hombre por ser una aspiradora. \n\nSe les está cayendo el chiringuito a pedazos y ya no saben qué leches inventarse.",
+            "text_b": null,
+            "label": 1
+        },
+        "265": {
+            "text_a": "—¿Estás bien princesa? ¿Qué te pasó en la cara?\n—Me acabo de quitar el maquillaje...",
+            "text_b": null,
+            "label": 1
+        },
+        "266": {
+            "text_a": "Y en el caso de causar una patología (la de los transexuales es terminar amputandose los órganos sexuales y otras partes del cuerpo como rostro, pecho, caderas, etc.) se debe clasificar como una enfermedad. No es sano terminar amputandose medio cuerpo, o sí?",
+            "text_b": null,
+            "label": 0
+        },
+        "267": {
+            "text_a": "Jony lo tiene que romper todo en la vuelta al negroide ese",
+            "text_b": null,
+            "label": 0
+        },
+        "268": {
+            "text_a": "Un grupo de WhatsApp de mujeres tiene más secretos que el gobierno de Estados Unidos.",
+            "text_b": null,
+            "label": 1
+        },
+        "269": {
+            "text_a": "el homosexual haciendo de ls suyas, otra vez anda de gay",
+            "text_b": null,
+            "label": 0
+        },
+        "270": {
+            "text_a": "MENTION Cada vez más mujeres nos damos cuenta de la ideología de genero que pretenden imponer.",
+            "text_b": null,
+            "label": 0
+        },
+        "271": {
+            "text_a": "En que se parecen las mujeres y las leyes? En que se pueden violar cuando quieras.",
+            "text_b": null,
+            "label": 1
+        },
+        "272": {
+            "text_a": "aqui enseñandole a esta pendeja que me tiene que aser de comer cuando yo le ordeno  machi sta    anti feminista    gamer  ",
+            "text_b": null,
+            "label": 0
+        },
+        "273": {
+            "text_a": "-¿Cuál es la similitud entre una mujer y una computadora?\n-Ninguna tiene cerebro, y  las dos tienen muy buena mem...",
+            "text_b": null,
+            "label": 1
+        },
+        "274": {
+            "text_a": "No existe ningún derecho que tengamos los hombres que no tengan las mujeres. Ni existe ahora ni existía desde hace muchas décadas. Hay que remontar mucho para llegar a una época en la que la mujer no tenía derecho a voto y los hombres eran obligados a ir a la guerra",
+            "text_b": null,
+            "label": 0
+        },
+        "275": {
+            "text_a": "¿Y por qué crees que las mujeres están locas? URL",
+            "text_b": null,
+            "label": 0
+        },
+        "276": {
+            "text_a": "MENTION MENTION MENTION Usted lo de la inversión de la carga de la prueba no lo tiene claro, ¿no?\n\nSi tanto defiende la presunción, ¿qué me dice de su ministerio de igualdad y de la ley de violencia de género?\n\n¿Quitar libertades a un hombre solo con la declaración de una mujer, sin pruebas ni juicio?",
+            "text_b": null,
+            "label": 0
+        },
+        "277": {
+            "text_a": "ahora que somos pocos, fav si odias a las mujeres",
+            "text_b": null,
+            "label": 0
+        },
+        "278": {
+            "text_a": " negros   haciendo cosas de negros  la selva haven idoa nosotros  ",
+            "text_b": null,
+            "label": 0
+        },
+        "279": {
+            "text_a": "-Cuales son los juegos favoritos de los africanos?\n+No se, cual?\n-Los juegos del hambre.",
+            "text_b": null,
+            "label": 1
+        },
+        "280": {
+            "text_a": "Y esta sociedad manipulada por el feminismo oculta la realidad de la discriminación al Hombre. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "281": {
+            "text_a": "El HOMBRE para el feminismo es un ser vivo a extinguir como PADRE. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "282": {
+            "text_a": "Solo imaginaros por un momento las manifestaciones feministas que habría a nivel global si la ley marcial de Ucrania obligará a las mujeres a luchar y permitiese a los hombres marchar.\n\nLuchan por la igualdad pero callan ahora... 🤡",
+            "text_b": null,
+            "label": 0
+        },
+        "283": {
+            "text_a": " Antofagasta    Expulsion   a los inmigrantes de mierda !!",
+            "text_b": null,
+            "label": 0
+        },
+        "284": {
+            "text_a": "—Me traes una cerveza, indio.\n—Claro que sí.\n—Que sea Heineken, por favor.",
+            "text_b": null,
+            "label": 1
+        },
+        "285": {
+            "text_a": "MENTION Los negros se van a quedar con todo (si es de VOX)\nTenemos que estar unidos, poco a poco acabaremos con esto (si es del PSOE y Podemos)",
+            "text_b": null,
+            "label": 0
+        },
+        "286": {
+            "text_a": "Las mujeres jugando con el pellejo de los huevos URL",
+            "text_b": null,
+            "label": 0
+        },
+        "287": {
+            "text_a": "O aceptas unas pésimas condiciones laborales o traerán miles de inmigrantes para que lo hagan por ti.\n\nSe ríen de cada español que no encuentra trabajo, de cada familia que no llega a fin de mes, de cada trabajador que lo único que quiere es un salario digno para salir adelante. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "288": {
+            "text_a": "es una respuesta a otro tuit: El fin de matrimonio homosexual es adoptar niños!..cuando un niño ve besarse y acariciarse entre hombres, por ejemplo, pensará que es normal…y luego pensará que es normal que lo hagan con él, y no entenderá el abuso!",
+            "text_b": null,
+            "label": 0
+        },
+        "289": {
+            "text_a": "Yo no sé esta manía de decir que los de VOX son machistas. VOX defiende que las mujeres tengan derecho a elegir qué tipo de fregona y detergente les gusta más.",
+            "text_b": null,
+            "label": 1
+        },
+        "290": {
+            "text_a": "MENTION MENTION MENTION MENTION Ya la hiciste llorar Falacia Progre y como buena feminista que es va irse a llorar a los brazos  flacos de su novia la Sheni con vigote y todo intento de Macho Protector pero facil de tumbar con una indiferencia alas locas estas. 🥰 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "291": {
+            "text_a": "Han entrado ilegalmente en España, con la cooperación de oenegés y gobierno traidor, casi 18.500 inmigrantes por Frontera Sur. Como a muchos les cuesta ver el alcance de la invasión…\n⬇️\nTantos ilegales como toda la población de San Lorenzo de El Escorial.\n\n Frontera Sur   URL",
+            "text_b": null,
+            "label": 0
+        },
+        "292": {
+            "text_a": "MENTION Sería mejor, y más justo, que compitiese con otras mujeres \"trans\". En el momento en que decidimos que es más importante contentar a tal o cual ideología que demostrar algo de sensatez, dejamos de ser justos y sensatos.",
+            "text_b": null,
+            "label": 0
+        },
+        "293": {
+            "text_a": "Hay más gays en una serie de Netflix que en la vida real.",
+            "text_b": null,
+            "label": 0
+        },
+        "294": {
+            "text_a": "los negros son una pandemia",
+            "text_b": null,
+            "label": 0
+        },
+        "295": {
+            "text_a": "Siento mucha lástima por los hombres que no saben valorar a las mujeres.\nYo con solo verlas ya sé más o menos cuanto COBRAN.",
+            "text_b": null,
+            "label": 1
+        },
+        "296": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION MENTION\nEn que se diferencia Julen y las feminazis?\nQue Julen esta muerto y ellas deberían estarlo.",
+            "text_b": null,
+            "label": 0
+        },
+        "297": {
+            "text_a": "Por los k me llaman machista que sepan que yo también limpio, friego, cocino y ago todas esas cosas de mujeres\nHASHTAG  ",
+            "text_b": null,
+            "label": 0
+        },
+        "298": {
+            "text_a": "MENTION Vente trioq gorda",
+            "text_b": null,
+            "label": 0
+        },
+        "299": {
+            "text_a": "- Papá, qué es ser pasivo?\n- Es el puto de la pareja que se deja romper el culo por el activo\n- Nada que ver con lo q me dijo la de contabilidad\n\nHASHTAG   HASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "300": {
+            "text_a": "MENTION Autodidacta = gay",
+            "text_b": null,
+            "label": 0
+        },
+        "301": {
+            "text_a": "En qué se diferencian un africano (inserte aquí su grupo vulnerado) y el copyright? El copyright tiene derechos.",
+            "text_b": null,
+            "label": 1
+        },
+        "302": {
+            "text_a": "Eso es! Muerte a los homosexuales!!",
+            "text_b": null,
+            "label": 0
+        },
+        "303": {
+            "text_a": "La comunidad LGBTQ+ ataca David Getta de homofóbico por no querer darle un beso a Kunno, pero nadie le teme a un homosexual, a los homosexuales se les tiene asco, no miedo.",
+            "text_b": null,
+            "label": 0
+        },
+        "304": {
+            "text_a": "Hilo sobre el feminismo radical...\nHasta hace como, yo era una de esas personas que llamaba FEMINAZIS a las jovencitas que actuaban con extrema violencia para reclamar los derechos de las mujeres. Hoy debo decir, que FRANCAMENTE yo también sería como ellas, si fuera mujer.\nHilo👇",
+            "text_b": null,
+            "label": 0
+        },
+        "305": {
+            "text_a": "Otra \"ingeniosa forma feminista\" de eliminar a un hombre. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "306": {
+            "text_a": "Las mujeres solo sirven para la cocina y nada más, lo digo yo que soy mujer y realista.  Inutil Como Mujer  ",
+            "text_b": null,
+            "label": 0
+        },
+        "307": {
+            "text_a": " First Dates 22 S  \nHay que tener cuidado con todo lo que venden en los chinos,a veces te hacen el lío,con una banda de mister simpático por ejemplo",
+            "text_b": null,
+            "label": 1
+        },
+        "308": {
+            "text_a": "MENTION MENTION estas solo basándote en una sola parte de la problacion y no te estás dando cuenta que las mujeres pueden hacer lo mismo que hacen algunos de nosotros los hombres pero el cambio es que ustedes pueden hacerse las víctimas por el mero echo de ser mujer y dejarnos como los malos URL",
+            "text_b": null,
+            "label": 0
+        },
+        "309": {
+            "text_a": "Mi humor es tan negro que puedo escucharlo pedir ayuda porque lo están asfixiando.",
+            "text_b": null,
+            "label": 1
+        },
+        "310": {
+            "text_a": "En la séptima habrá una gorda modelo de la que el más guapo del cole se enamorará. Cero dudas.",
+            "text_b": null,
+            "label": 1
+        },
+        "311": {
+            "text_a": "Las mujeres salen a caminar con la excusa de hablar de sus problemas o sacar el cuero una de las dos",
+            "text_b": null,
+            "label": 1
+        },
+        "312": {
+            "text_a": "No entendieron absolutamente nada, porque aparte de ser unos negros de mierda tambien son unos ignorantes! y no se victimizen por la palabra \"negros\" porque saben muy bien que no pasa por el color de piel, saliste con un cuchillo sos un asesino! sos un negro de mierda, una lacra!",
+            "text_b": null,
+            "label": 0
+        },
+        "313": {
+            "text_a": " First Dates 29 o  \nY es por eso chicos que siempre tenéis que ir a las citas con el dinero justo para pagar solo lo vuestro. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "314": {
+            "text_a": "Estoy llorando como un maricón",
+            "text_b": null,
+            "label": 0
+        },
+        "315": {
+            "text_a": "Gente cuidado!\nEl 10% (talvez un poco más) de la población que es homosexual causará el fin del mundo por no pensar en que la única función del amor es la reproducción",
+            "text_b": null,
+            "label": 0
+        },
+        "316": {
+            "text_a": "¿Sabías que mientras en la España de Irene y Sánchez aumentan los feminicidios en el Brasil de MENTION disminuyen?\nSí, se puede. Pero no es a la manera de Irene. \nNo hagáis RT que a los progres les estalla la cabeza. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "317": {
+            "text_a": "¿Por qué un cura tiene que andar organizando \"encuentros de diversidad sexual\"? Si para eso están los tugurios gay. La Iglesia no tiene por qué andar organizando ese tipo de cosas. Su misión es salvar almas, no mandarlas al infierno. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "318": {
+            "text_a": "De niño Hitler por el día del maestro le regaló a la profe un desodorante y un judío pa que se bañara",
+            "text_b": null,
+            "label": 0
+        },
+        "319": {
+            "text_a": "Definitivamente todos los hombres son iguales. —Catalina, 12 años y, al parecer, acaba de viajar a China.",
+            "text_b": null,
+            "label": 1
+        },
+        "320": {
+            "text_a": "Este es el privilegio del que goza el patriarcado, por el que el feminismo sale a la calle a destruir monumentos y a pintar paredes cada año. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "321": {
+            "text_a": "La azur* esa que maricon más repelente es el claro ejemplo de que cuando los maricones llegan a los 30 ya no pueden dar más URL",
+            "text_b": null,
+            "label": 0
+        },
+        "322": {
+            "text_a": " TIPICO   Que hacen tres mujeres en una isla desierta?....\nSe juntan dos y critican a la otra  XD    RT  ",
+            "text_b": null,
+            "label": 1
+        },
+        "323": {
+            "text_a": "MENTION El fontanero, su mujer y otras cosas de meter.",
+            "text_b": null,
+            "label": 1
+        },
+        "324": {
+            "text_a": "Estudia para que no creas que el feminismo defiende a la mujer.",
+            "text_b": null,
+            "label": 0
+        },
+        "325": {
+            "text_a": "Negre: ¡Vamos a escuchar qué le pasó con un inmigrante!\nSeñora: Quiero denunciar que ya he tenido un problema con un marroquí. Vi que se paraba en una zona donde no se tenía que parar. Era un crío. Le miré de mala leche y pasó de mí. Pero yo pensé que me quería robar o algo.",
+            "text_b": null,
+            "label": 0
+        },
+        "326": {
+            "text_a": "MENTION Ser feminista es malo, mira como me estas tratando",
+            "text_b": null,
+            "label": 0
+        },
+        "327": {
+            "text_a": "Los hombres se quejan de que a las mujeres no se les entiende pero ¿Quien los entiende a ellos?",
+            "text_b": null,
+            "label": 0
+        },
+        "328": {
+            "text_a": "Cuándo veo a esos padres sacando a pasear a sus hijas me arrepiento de haber violado a la mía.\n\nHASHTAG   HASHTAG   HASHTAG   HASHTAG  ",
+            "text_b": null,
+            "label": 0
+        },
+        "329": {
+            "text_a": "—¡Cuidado que los bombones se derriten al sol! — ¡Gracias por el piropo! — JAJA ¿Que piropo? ¡Que te comas los bombones en tu casa gorda!",
+            "text_b": null,
+            "label": 1
+        },
+        "330": {
+            "text_a": "MENTION MENTION MENTION En su cabeza era espectacular. Comparar una niña de 12 años violada y asesinada por cuatro moros ilegales con defender una frontera.\n\nYa verá el puto progre cuando le toque a su hija.",
+            "text_b": null,
+            "label": 0
+        },
+        "331": {
+            "text_a": "Gracias a MENTION por su  FF   y chiste dedicado! --&gt; Mujer gallega a marido gallego: \"Comemus o que? \" \"Primero el que y después comemus\"",
+            "text_b": null,
+            "label": 1
+        },
+        "332": {
+            "text_a": "Quien disfraza eso de “libertad” es el feminismo 😂 URL",
+            "text_b": null,
+            "label": 1
+        },
+        "333": {
+            "text_a": "Los inmigrantes ilegales se aprovechan de todas esas cosas y NO contribuyen y está permitido y fomentado por el gobierno. Tiene razón, es absolutamente inmoral. Y No lo digo yo, lo dice usted.",
+            "text_b": null,
+            "label": 0
+        },
+        "334": {
+            "text_a": "Qué pensáis de los negros y los moros sin papeles que están España jodiendo la existencia a los españoles con robos, peleas y violaciones?",
+            "text_b": null,
+            "label": 0
+        },
+        "335": {
+            "text_a": "MENTION No soporto a esta feminista ordinaria que se hace la mosca muerta, esa ya esta lista para ser ministra de salud, lo que nos espera con el nuevo gabinete al rojo vivo",
+            "text_b": null,
+            "label": 0
+        },
+        "336": {
+            "text_a": "“Los españoles estaríamos mucho mejor sin ellos. No los queremos aquí, nunca los hemos querido aquí y nunca los querremos aquí. España es nuestra tierra, no la suya.”",
+            "text_b": null,
+            "label": 0
+        },
+        "337": {
+            "text_a": "Es más fácil tomar mates con Suárez que con el puto del gordo aviega",
+            "text_b": null,
+            "label": 0
+        },
+        "338": {
+            "text_a": "Me dieron muchisimas ganas de hacerme gay y empezar a chupar la ENORME VERGA VENOSA que tiene la putita hermosa de LOUIS como quiero que LOUIS pase su PORONGA por mi culo mientras me grita y me llama TROLA dios quiero la CHOTA DESCOMUNAL de el gran LOUIS TOMLINSON",
+            "text_b": null,
+            "label": 0
+        },
+        "339": {
+            "text_a": "“A mí me gustan las mujeres a la antigua: de esas que no tienen pene”.",
+            "text_b": null,
+            "label": 1
+        },
+        "340": {
+            "text_a": "MENTION MENTION Prefiero ser fumona antes que femboy, suic1d4te trans",
+            "text_b": null,
+            "label": 0
+        },
+        "341": {
+            "text_a": "MENTION La transfobia es una construcción social.",
+            "text_b": null,
+            "label": 0
+        },
+        "342": {
+            "text_a": "MENTION MENTION hace cuanto nos los veo wachos!! espero que esten bien y con buenas mujeres como les enseñe",
+            "text_b": null,
+            "label": 0
+        },
+        "343": {
+            "text_a": "Feministas: \"los onvres nos sexualizan, las mujeres no somos así\"\n\nPatricia Pino debe ser un hombre entonces 🤔: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "344": {
+            "text_a": "Pedirle que no discrimine a los hombres es ser antifeminista.\nPero el feminismo es igualdad 😛 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "345": {
+            "text_a": "Se niega a hacerse una foto porque son todo hombres. \n\nEso no es feminismo, eso es ser una cateta. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "346": {
+            "text_a": "— Mesero, la cuenta por favor.\n— Claro, son $2,300.\n— Uy, ¿pues qué rompí?\n— Pues la dieta ¡Pinche gordo! Tragaste un chingo.",
+            "text_b": null,
+            "label": 1
+        },
+        "347": {
+            "text_a": "Ojalá un movimiento en URL para abolir el feminismo de Twitter, que ya va oliendo a cerrado desde hace meses.",
+            "text_b": null,
+            "label": 0
+        },
+        "348": {
+            "text_a": "Llámenme machista, me la suda, pero este meme es real como la vida misma",
+            "text_b": null,
+            "label": 0
+        },
+        "349": {
+            "text_a": "El Only Fans demuestra que las mujeres están de acuerdo en ser vistas como objeto siempre y cuando se les pague. \n\nPerdón por ser tan descaradamente honesto.",
+            "text_b": null,
+            "label": 0
+        },
+        "350": {
+            "text_a": "MENTION jajaja puras mujeres con falta de amor parternal URL",
+            "text_b": null,
+            "label": 0
+        },
+        "351": {
+            "text_a": "Hombres disfrazados de mujer tienen carta abierta para violentar y agredir a mujeres de verdad, según la podrida ideologia de identidad de genero.",
+            "text_b": null,
+            "label": 0
+        },
+        "352": {
+            "text_a": "Hijitos, si su móvil se moja, mételo en un recipiente lleno de arroz. De noche, el arroz atraerá a los chinos, ellos lo arreglarán.",
+            "text_b": null,
+            "label": 1
+        },
+        "353": {
+            "text_a": "MENTION MENTION Esta muy documentado, pero no adjuntas ningún documento?\n\nHay violencia? Si\n\nHay mujeres que sufren violencia? Si y son muchísimos mas las victimas hombres!\n\nLa violencia que sufren las mujeres es por ser mujeres? NO!!!\n\nDrogas, trastornos, intereses...etc pero NO POR SER MUJER!",
+            "text_b": null,
+            "label": 0
+        },
+        "354": {
+            "text_a": "- Amor, este vestido hace que me vea gorda? - Amor, esta corbata hace que me vea calvo? - Pero si estas calvo. - EXACTO!!!!",
+            "text_b": null,
+            "label": 1
+        },
+        "355": {
+            "text_a": "MENTION cuando compras el negro más negro y lo usas para hacer \"pranks\"  URL",
+            "text_b": null,
+            "label": 0
+        },
+        "356": {
+            "text_a": "Homofobo? No, yo no soy eso, porque homo es hombre, y yo no soy gay.",
+            "text_b": null,
+            "label": 1
+        },
+        "357": {
+            "text_a": "Ha nacido aquí y habla como si llevara 3 meses en España.\n¿Qué tipo de integración es esa?",
+            "text_b": null,
+            "label": 0
+        },
+        "358": {
+            "text_a": "Los chinos están tramando algo, lo veo en su mirada.",
+            "text_b": null,
+            "label": 1
+        },
+        "359": {
+            "text_a": "MENTION no podemos verlo nos tiene bloqueado a todos el moro de los cojones",
+            "text_b": null,
+            "label": 0
+        },
+        "360": {
+            "text_a": "En que se parecen las mujeres y las leyes? En que se pueden violar cuando quieras.",
+            "text_b": null,
+            "label": 1
+        },
+        "361": {
+            "text_a": "A MENTION, le dedicamos: Era tan, pero tan gallego, que creía que los jeep 4x4 tenían 16 ruedas (sigue la HASHTAG  )",
+            "text_b": null,
+            "label": 1
+        },
+        "362": {
+            "text_a": "- Paco por el culo no!!!\n+ Pues ya me dirás tu Manolo\n\nHASHTAG   HASHTAG   HASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "363": {
+            "text_a": "Cuando una niña no quiere hacer garganta profunda y tienes que forzarla por la nuca",
+            "text_b": null,
+            "label": 0
+        },
+        "364": {
+            "text_a": "Al igual que el patriarcado, los argumentos feministas no existen 😌 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "365": {
+            "text_a": "Dejen en paz a MENTION es un video montada por  MENTION URL",
+            "text_b": null,
+            "label": 0
+        },
+        "366": {
+            "text_a": "Un feminazi menos. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "367": {
+            "text_a": "URL para que los chinos puedan circular sin inconvenientes",
+            "text_b": null,
+            "label": 0
+        },
+        "368": {
+            "text_a": "MENTION Te menti no soy aliado feminista, ahora encuerate CERDA 🐷 URL",
+            "text_b": null,
+            "label": 1
+        },
+        "369": {
+            "text_a": "¿También están reservadas un 40% de plazas a mujeres en mano de obra para minería o construcción? \nO solo en puestos directivos...",
+            "text_b": null,
+            "label": 0
+        },
+        "370": {
+            "text_a": "- Que somos?  - GORDAS!!  - Que queremos?  - LA LUCHA CONTRA LA DISCRIMINACION!  - Cuando lo queremos?  - Cuando terminemos de comer esta pi",
+            "text_b": null,
+            "label": 1
+        },
+        "371": {
+            "text_a": "Como los chiringuitos feminazis? 🤔\n Si Se Puede   URL",
+            "text_b": null,
+            "label": 0
+        },
+        "372": {
+            "text_a": "Los refugiados no sé. Los inmigrantes ilegales que llegan todos los días a España no están vacunados de nada. E incluso traen enfermedades ya erradicadas en el continente.",
+            "text_b": null,
+            "label": 0
+        },
+        "373": {
+            "text_a": "La atracción no es un acto, y por lo tanto, no se le puede catalogar como pecado, porque los pecados son actos concretos. Es por eso que un homosexual puede llegar a ser santo si vive en castidad y, desde luego, es virtuoso en todos los aspectos y no solo lo sexual.",
+            "text_b": null,
+            "label": 0
+        },
+        "374": {
+            "text_a": "Me acaba de salir un vídeo en tiktok como de como le gustan a una chavala los chicos y dice que con mullet\n\nY me he quedado en plan ????\n\nEl mullet no era un peinado exclusivo para las lesbianas?? Digo\n\nQue se lo hacen tb los tíos? Ahora me entero",
+            "text_b": null,
+            "label": 0
+        },
+        "375": {
+            "text_a": "Que hace un codigo de barras en la cartera de un negro? obvio es la foto familar",
+            "text_b": null,
+            "label": 1
+        },
+        "376": {
+            "text_a": "Tienes que haber vivido muy poco y prácticamente dentro de una burbuja para pensar que todos los inmigrantes que entran ilegalmente (siempre hombres jóvenes, algunos armados y haciendo alarde de ello en redes) vienen huyendo de una guerra que no existe y a pagarte las pensiones.",
+            "text_b": null,
+            "label": 0
+        },
+        "377": {
+            "text_a": "+ Oye negro, ya se por que no comes chocolate.\n– ¿Por qué?\n+ Porque te puedes morder los dedos. URL",
+            "text_b": null,
+            "label": 1
+        },
+        "378": {
+            "text_a": "MENTION La agresion que sufro ahora no es solamente por parte de mujeres, si no tambien de hombres en su mayoria y oara colmo, todos pro vida y conservadores que me denigran por decir lo q pienso. Se convirtieron en la misma secta que el feminismo.",
+            "text_b": null,
+            "label": 0
+        },
+        "379": {
+            "text_a": "¿Porqué los judíos no se postulan para diputados, ni senadores? Porque no quieren entrar a la cámara.",
+            "text_b": null,
+            "label": 1
+        },
+        "380": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION \n-Manolo, me han dicho que tu mujer te ha presentado una denunciado por violencia de género.\n-Pues habra sido por escrito, porque como le deje la boca...",
+            "text_b": null,
+            "label": 1
+        },
+        "381": {
+            "text_a": "MENTION Ruego con toda mi alma que te vayas y no sigas haciendo daño a las mujeres y al feminismo. Por favor. Ya está bien eh.",
+            "text_b": null,
+            "label": 0
+        },
+        "382": {
+            "text_a": "Las mujeres se clasifican en dos categorías: \n\n—Tu novia. \n—Y Todas las demás con las que nunca debes de hablar, porque tu novia se emputa.",
+            "text_b": null,
+            "label": 1
+        },
+        "383": {
+            "text_a": "Se empieza promoviendo el “activismo sexual” en los colegios; luego, imposición de doctrina de género en aulas y medios; banalización de lo sexual; y finalmente, terminas encubriendo abusos. \n\nOltra baila y le aplauden. Era su objetivo. Normalizar la aberración. Hay que pararlo. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "384": {
+            "text_a": "Me cago en todo que me ha venido a la mente el olor del metro con un negro al lado en verano, tarde arruinada.",
+            "text_b": null,
+            "label": 0
+        },
+        "385": {
+            "text_a": "Visite este año el campo de concentración-resort-spa-ciudad de vacaciones de Sttuthof hoy Sztutowo, PL. Los presos judíos disponían hasta de dentista GRATIS . La última foto es un pequeño crematorio pero la propaganda lo llama cámara de gas.",
+            "text_b": null,
+            "label": 0
+        },
+        "386": {
+            "text_a": "MENTION Hay quien ve dos tetas gordas, o solo soy yo?",
+            "text_b": null,
+            "label": 1
+        },
+        "387": {
+            "text_a": "Un gay en una tortería: -Señor ¿me puede hacer una torta? -¿Con chile o sin chile? -Ay, mejor sin torta!  fb  ",
+            "text_b": null,
+            "label": 1
+        },
+        "388": {
+            "text_a": "MENTION Ya se sabe que tiran más dos tetas que cien carretas.\nY aunque no haya sido mi caso, no seré yo quien diga de ese agua no beberé ni esas tetas admiraré. \nQue la carne es débil y el semen de fuerza.",
+            "text_b": null,
+            "label": 1
+        },
+        "389": {
+            "text_a": "MENTION MENTION MENTION MENTION Genial! Ahora, como demostras que alguien es agredida \"por ser mujer\". Con que evidencias te lanzas?",
+            "text_b": null,
+            "label": 0
+        },
+        "390": {
+            "text_a": "El Feminismo de Género es una \"ideología retrógrada\". URL",
+            "text_b": null,
+            "label": 0
+        },
+        "391": {
+            "text_a": "Prefirió dormir a la intemperie que meterse a esa tienda para homosexuales. Brutal!",
+            "text_b": null,
+            "label": 0
+        },
+        "392": {
+            "text_a": "Están en contra de las 'terapias de conversión', pero ¿qué mayor terapia de conversión hay que la ideología queer, que promueve precisamente la conversión de mujeres a 'hombres' y de hombres a 'mujeres'? No hay ninguna, hipócritas psicópatas. Transición=conversión, estúpidos.",
+            "text_b": null,
+            "label": 0
+        },
+        "393": {
+            "text_a": "¿Pero no eran los hombres los violentos, feministas? 🤔 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "394": {
+            "text_a": "MENTION MENTION y que es lo malo que le enseñan a los niños? Los valores cristianos son los mejores valores que pueden aprender. O me vas a decir que la ideología de género es mejor? Lo que pasa con vos es que no tenes el conocimiento suficiente para hablar.Sólo te invito que tengas conocimiento",
+            "text_b": null,
+            "label": 0
+        },
+        "395": {
+            "text_a": "Si ella mata a el  por celos, es violencia a secas, y los hijos de el no son reconocidos víctimas \n\nPero si el  mata a ella por celos, es violencia machista y  los hijos de ella son reconocidos víctimas.\n\n¿Es eso?",
+            "text_b": null,
+            "label": 0
+        },
+        "396": {
+            "text_a": "Una vez escuche a una que utilizaba la palabra prostiputa,y me pareció una máquina, mezcla prostituta  y puta",
+            "text_b": null,
+            "label": 0
+        },
+        "397": {
+            "text_a": "—Estas bien guapa\n—“Seguro es le dices a todas”\n—¡Pues claro estúpida, ninguna afloja si les digo feas.\n—“Ay”",
+            "text_b": null,
+            "label": 1
+        },
+        "398": {
+            "text_a": "Pues a mi si me arman vaya que si defiendo a España de todos los moros",
+            "text_b": null,
+            "label": 0
+        },
+        "399": {
+            "text_a": "¿¡En serio no se habían dado cuenta!? No hay homosexuales, bisexuales y transexuales y etc. etc. etc. Al menos no hay homosexualidad neta. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "400": {
+            "text_a": "MENTION Alguna feminista va a leer \"lenguaje masculino\" y se le va a saltar un tornillo",
+            "text_b": null,
+            "label": 0
+        },
+        "401": {
+            "text_a": "MENTION Vamos a financiar centros de acogida para inmigrantes ilegales,pero para los españoles ni una mierda seca pinchada en un palo.",
+            "text_b": null,
+            "label": 0
+        },
+        "402": {
+            "text_a": "- Mamá mamá en la escuela me dicen machista. - Quiénes hijo? - Esas perras que se piensan que por tener boca pueden hablar. HASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "403": {
+            "text_a": "¿Qué le tirarías a un negro que se está ahogando?\n\n– Su familia",
+            "text_b": null,
+            "label": 1
+        },
+        "404": {
+            "text_a": "Yo no soy gay, soy un hombre con atracción al mismo sexo. Son cosas diferentes. La etiqueta de gay implica hacer de la AMS tu identidad y centro de tu vida, cuando la realidad es que fuera de twitter ni hablo de esto. Además, gay implica aceptar toda la podredumbre LGB6.",
+            "text_b": null,
+            "label": 0
+        },
+        "405": {
+            "text_a": "Joder que maricon con las uñitas pintadas URL",
+            "text_b": null,
+            "label": 0
+        },
+        "406": {
+            "text_a": "Sabéis la diferencia entre una mujer y una rata? Que la rata puede escapar de un callejón a las 3 de la madrugada",
+            "text_b": null,
+            "label": 0
+        },
+        "407": {
+            "text_a": "Si que es cierto que es un poco gay, homosexual, maricon pero yo le trataba como si fuera una persona normal",
+            "text_b": null,
+            "label": 0
+        },
+        "408": {
+            "text_a": "Voy sabiendo que las mujeres les platican a sus amigas hasta de que tamaño lo tiene el hombre que se cenan.\n\nHombres, tengan un poquito de dignidad amor propio y no anden teniendo relaciones sexuales fuera del matrimonio, porque luego toda la ciudad sabe que lo tienen chiquito.",
+            "text_b": null,
+            "label": 0
+        },
+        "409": {
+            "text_a": "MENTION Este es el del famoso chiste que dice...\n- Mamaaaa, todas mis amigas llevan minifalda, ¿Porque yo no puedo?.\n- Porque se te ven los huevos, José Miguel.",
+            "text_b": null,
+            "label": 0
+        },
+        "410": {
+            "text_a": "¿Qué es un partido doble mixto de tenis?.\nUn single de hombres con obstáculos.\nHASHTAG   HASHTAG    Anecdotas    Machis  ...",
+            "text_b": null,
+            "label": 1
+        },
+        "411": {
+            "text_a": "Pov: Eres un recluso del campo de concentración dirigido por una feminazi. ¡rápido arregla tu cama antes de la inspección!",
+            "text_b": null,
+            "label": 1
+        },
+        "412": {
+            "text_a": "MENTION Las feminazis de Comodoro! Jaja!!!",
+            "text_b": null,
+            "label": 0
+        },
+        "413": {
+            "text_a": "¿Cuál es el colmo de los Chinos?Que coman caldo con los palillos.",
+            "text_b": null,
+            "label": 1
+        },
+        "414": {
+            "text_a": "LAS FEMINISTAS CREEN QUE SOLO LOS HOMBRES CONSUMEN PORNO y LAS MUJERES SON MÁS VIRGINALES\n\nURL\n\nLas feministas criminalizan el deseo sexual en libertad.",
+            "text_b": null,
+            "label": 0
+        },
+        "415": {
+            "text_a": "Discutir con una mujer es como discutir con el árbitro; aunque tengas la razón, NUNCA LE VAS A GANAR.",
+            "text_b": null,
+            "label": 1
+        },
+        "416": {
+            "text_a": "MENTION MENTION MENTION Supongo que Mr.X en su video con tantos billetes a su alrededor se le olvido mencionar que la mina MENTION odia a los Hombres Blancos (como si un moreno sea diferente) que es una toxica de mierda en twitter que pertenece ala nueva ola del feminismo extermina machirulos 🤔",
+            "text_b": null,
+            "label": 0
+        },
+        "417": {
+            "text_a": "MENTION MENTION MENTION Porque la mayoría de la comunidad lgtbi+URL es socialista, y al ser el Che una figura revolucionaria de la misma ideologia entonces lo idolatran. Osea gays idolatrando a un asesino de gays, seria como judios idolatrando a Hitler o brujas al papa en el medioevo",
+            "text_b": null,
+            "label": 0
+        },
+        "418": {
+            "text_a": "Esta es la verdadera brecha que sufren las mujeres, la brecha maternal.\n\nMuy pronto, MENTION pondrá en el centro de las políticas andaluzas a todas esas mujeres que deciden formar una familia. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "419": {
+            "text_a": "A no es que la violencia de género es solo cuando, es hacia una mujer, por qué eso nunca nos pasa a los hombres, no existe! URL",
+            "text_b": null,
+            "label": 1
+        },
+        "420": {
+            "text_a": "Hoy vi a dos asquerosas lesbianas gordas besándose, que perro asco y todavía lo hacen en público donde hay niños, ya ni la chingan",
+            "text_b": null,
+            "label": 0
+        },
+        "421": {
+            "text_a": "San Jorge batallando y ganando a los moros 💪🏽💪🏽‼️ vamosss con todooo URL",
+            "text_b": null,
+            "label": 0
+        },
+        "422": {
+            "text_a": "MENTION MENTION ugh que asco una mujer",
+            "text_b": null,
+            "label": 1
+        },
+        "423": {
+            "text_a": "Yo apruebo la ley de coserle el culo a los maricones",
+            "text_b": null,
+            "label": 1
+        },
+        "424": {
+            "text_a": "MENTION MENTION MENTION Verdades o feminismo TOXICO???  MENTION al final como cualquier feminista inestable mostraste las garras Mr. Fanboy no puedo con la presión Brie LastroVergas tiene un Oscar? sabes lo que tengo yo? Mr. Fanboy con todas las letras tengo el dinero de su entrada :) URL",
+            "text_b": null,
+            "label": 0
+        },
+        "425": {
+            "text_a": "Mientras las feministas defienden a los perros, sus lideres FEMINISTAS los cocinan",
+            "text_b": null,
+            "label": 0
+        },
+        "426": {
+            "text_a": "Mi madre me sirve el plato de comida mínimo soy obrera por eso es que ando de gorda jaja",
+            "text_b": null,
+            "label": 0
+        },
+        "427": {
+            "text_a": "MENTION Eso no es cierto. Las mujeres también violan.\n\nTu eres un lerdo feminazi aturdido por la absenta feminista roja que nos rodea.\n\n Perroflauta   feminazi",
+            "text_b": null,
+            "label": 0
+        },
+        "428": {
+            "text_a": " First Dates 8 J  \nPor qué hay cantantes iconos para los gays? Que pasa si eres gay y te gusta Manolo Escobar o Antonio Molina?",
+            "text_b": null,
+            "label": 0
+        },
+        "429": {
+            "text_a": "MENTION A tomar por el culo la gorda,jajaja.",
+            "text_b": null,
+            "label": 0
+        },
+        "430": {
+            "text_a": "Tipica \"actitud feminista\" URL",
+            "text_b": null,
+            "label": 1
+        },
+        "431": {
+            "text_a": "La mayoría de los que hacen hiperpop son gays",
+            "text_b": null,
+            "label": 0
+        },
+        "432": {
+            "text_a": "“Me gustan las mujeres a la antigua, de esas que no tienen pene”.",
+            "text_b": null,
+            "label": 1
+        },
+        "433": {
+            "text_a": "¿A que el feminismo no te lo contará? URL",
+            "text_b": null,
+            "label": 0
+        },
+        "434": {
+            "text_a": "Aprovechad este momento para insultar a las feminazis, se despiertan a partir de las 12:00\n\nHASHTAG   HASHTAG   HASHTAG     8 M 2021    Diadelamujer    Dia Internacional De La Mujer     8 M    Womens Day    International Womens Day  ",
+            "text_b": null,
+            "label": 0
+        },
+        "435": {
+            "text_a": "MENTION Más chiringuitos feminazis.\nMás parásitas del erario público.",
+            "text_b": null,
+            "label": 0
+        },
+        "436": {
+            "text_a": "¿Por qué se dice que los mexicanos son muy espirituales? Porque siempre dicen ¡órale!",
+            "text_b": null,
+            "label": 1
+        },
+        "437": {
+            "text_a": "— Hija estas tan gorda que podrías rodar… \n\n— ¡Abuelo, que grosero! mejor me voy… \n\n(._.) (|:) (.-.) (:|) (._.) (|:) (.-.) (|:)",
+            "text_b": null,
+            "label": 1
+        },
+        "438": {
+            "text_a": "Crearán nuevos puestos de trabajo inútiles. Más chiringuitos. Adoctrinadores profesionales y comisarias feminazis que instauren el pensamiento único y persigan al disidente/opositor. Por supuesto, serán quienes decidan quien asciende en el escalafón y quien es expulsado.",
+            "text_b": null,
+            "label": 0
+        },
+        "439": {
+            "text_a": "-¡Policía! Dos chicas se están peleando por mí -¿Y cuál es el problema? -Es que va ganando la gorda!",
+            "text_b": null,
+            "label": 1
+        },
+        "440": {
+            "text_a": "Definitivamente las mujeres han cambiado mucho estos últimos años URL",
+            "text_b": null,
+            "label": 0
+        },
+        "441": {
+            "text_a": "También tengan mucho cuidado con quienes dicen que \"el amor homosexual es un don de Dios\", porque no es eso, sino consecuencia de nuestra propia naturaleza caída.\n\nOren mucho por esas personas, para que se conviertan, o que acaben de pervertirse y dejen de confundir almas.",
+            "text_b": null,
+            "label": 0
+        },
+        "442": {
+            "text_a": "Quédate con quien te diga: Te quiero más que los restaurantes chinos a los gatos",
+            "text_b": null,
+            "label": 1
+        },
+        "443": {
+            "text_a": "Hombre que se toma fotos en el espejo NO ES HOMBRE!  Maricón De Mierda  ",
+            "text_b": null,
+            "label": 1
+        },
+        "444": {
+            "text_a": "pinche puto joto marica se lleva pero no se aguanta",
+            "text_b": null,
+            "label": 0
+        },
+        "445": {
+            "text_a": "Otra \"alienada\" del Feminismo de Género. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "446": {
+            "text_a": "-- Amor ¿Estoy guapa?  — Tienes el cuerpo de un Dios  — ¿Ah, si? ¿El de cuál?  — El de Buda",
+            "text_b": null,
+            "label": 1
+        },
+        "447": {
+            "text_a": "me cago en maria antonieta, en luis 16, en sus putos muertos y sobretodo, en los putos franceses hijos de puta",
+            "text_b": null,
+            "label": 1
+        },
+        "448": {
+            "text_a": "Porque MENTION es tan weona por dios?  Que pecado hemos cometido los chilenos para que este  cachivache con retraso mental esté de diputada \n\n-Traidora-  Rechazo Por Chile   URL",
+            "text_b": null,
+            "label": 0
+        },
+        "449": {
+            "text_a": "MENTION MENTION Pero se enfadan si las llamamos feminazis.\n\n STOPFEMINAZIS   URL",
+            "text_b": null,
+            "label": 0
+        },
+        "450": {
+            "text_a": "Me pregunto quién tendrá más subgéneros, ¿el metal o la comunidad LGTB? 🤔",
+            "text_b": null,
+            "label": 1
+        },
+        "451": {
+            "text_a": "MENTION ahh y yo q pensé q era q las tetas no te dejaban leer los tweets , me quedo más tranquilo",
+            "text_b": null,
+            "label": 0
+        },
+        "452": {
+            "text_a": "¿Quién iba a pensar que al crecer se harían bien putas?\n\n—Yo, cada vez que veo sus fotos de niñas.",
+            "text_b": null,
+            "label": 1
+        },
+        "453": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION MENTION\nEn que se parece un negro y una bici?\nEn la cadena.",
+            "text_b": null,
+            "label": 1
+        },
+        "454": {
+            "text_a": "MENTION Por ejemplo ser maricon",
+            "text_b": null,
+            "label": 0
+        },
+        "455": {
+            "text_a": "MENTION MENTION Me tiene bloqueado la feminazi cobarde guatona de la valdebenito \nQue dijo? URL",
+            "text_b": null,
+            "label": 0
+        },
+        "456": {
+            "text_a": "MENTION Van dando lecciones de feminismo y ellas mismas se denigran.",
+            "text_b": null,
+            "label": 0
+        },
+        "457": {
+            "text_a": "como metes a 4 judios en un coche\n-en el cenicero",
+            "text_b": null,
+            "label": 0
+        },
+        "458": {
+            "text_a": "Es que esos musulmanes son todos extremistas y terroristas, es humor y libre expresión\" Digan lo mismo sobre el niño sirio.",
+            "text_b": null,
+            "label": 0
+        },
+        "459": {
+            "text_a": "Las mujeres piensan en algo que no sea besar o sexo?",
+            "text_b": null,
+            "label": 0
+        },
+        "460": {
+            "text_a": "buenas quiero decir que le he pillado una fobia extrema a las tetas entonces si os caigo mal me podéis llenar md de foto tetas para crearme una fobia tengo md abierto",
+            "text_b": null,
+            "label": 0
+        },
+        "461": {
+            "text_a": "— Dime la verdad ¿tienes otra?\n—No.\n— ¿enserio que no?\n—Que no gorda HP ya no hay mas empanadas. ya se comió 10, no joda!\nHASHTAG  ",
+            "text_b": null,
+            "label": 1
+        },
+        "462": {
+            "text_a": "VETE A LA MIERDA IRENE HIJA DE PUTA, COMO LE ENSEÑEN A MI HERMANITA, QUE EL AÑO QUE VIENEN EMPIEZA PRIMARIA, EL PUTO FEMINISMO COMO ASIGNATURA OBLIGATORIA VOY Y QUEMO EL CONGRESO DE LOS DIPUTADOS CON TODOS DENTRO",
+            "text_b": null,
+            "label": 0
+        },
+        "463": {
+            "text_a": "Yo jamas contrato un extranejero",
+            "text_b": null,
+            "label": 0
+        },
+        "464": {
+            "text_a": "No importa cuando leas esto, pero Natalia Valdebenito sigue siendo el más grande ejemplo de una FEMINAZI completamente IN... INNECESARIA INSOPORTABLE INSUFRIBLE INDECENTE INÚTIL .... .... .... Agregue el que quiera porque de seguro también lo es.",
+            "text_b": null,
+            "label": 0
+        },
+        "465": {
+            "text_a": "- Bienvenida a la fiesta temática. Muy bueno su disfraz de puta. - Soy la vecina, que si pueden bajar la música.",
+            "text_b": null,
+            "label": 1
+        },
+        "466": {
+            "text_a": "Le tienen tanto miedo a Macarena que se juntan en manada para amenazarla.\nLuego irán de feministas.\n\nSi estás por Granada acompáñala. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "467": {
+            "text_a": "MENTION Hijo de tu puta madre gallega",
+            "text_b": null,
+            "label": 0
+        },
+        "468": {
+            "text_a": "El aborto que se perdió la madre de Farinella, es increíble.",
+            "text_b": null,
+            "label": 0
+        },
+        "469": {
+            "text_a": "Tremendo hilo. Resumiendo: los franceses son unos inútiles, la policía francesa más inútil todavía, y los moros campando a sus anchas cometiendo delitos (a la entrada y a la salida) para cerrar una noche para la historia negra del fútbol. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "470": {
+            "text_a": "Su posición política es precisamente su identidad, ha basado toda su carrera en su condición trans. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "471": {
+            "text_a": "Un negro y un judío se tiran desde un quinto piso, ¿quién llega antes al suelo? El negro, porque la mierda pesa más que la ceniza. HASHTAG   HASHTAG   HASHTAG    Risas    Putos Domingos  ",
+            "text_b": null,
+            "label": 1
+        },
+        "472": {
+            "text_a": "La verdad verdadera es que estos Chinos, si nos pudieron joder a todos con este Coronavirus.\nNo nos olvidemos que todo comenzó allá",
+            "text_b": null,
+            "label": 0
+        },
+        "473": {
+            "text_a": "Sos feminista y macrista, no podes hablar de virtudes. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "474": {
+            "text_a": " First Dates 19 j  \nQue le vio mi madre a mi padre?\n\nPues que es negro, poyastá",
+            "text_b": null,
+            "label": 1
+        },
+        "475": {
+            "text_a": "Tuve un pasado negro\nAtte: Michael Jackson  Sin Ofender    x D  ",
+            "text_b": null,
+            "label": 1
+        },
+        "476": {
+            "text_a": "Yo no soy feminista, soy feministo. Ya vale de este lenguaje ofensivo y machista! 😡😡😡",
+            "text_b": null,
+            "label": 0
+        },
+        "477": {
+            "text_a": "Que separa los humanos de las personas? El mar Mediterráneo.",
+            "text_b": null,
+            "label": 1
+        },
+        "478": {
+            "text_a": "¿Cuál es la diferencia entre un vaso con mierda y un negro?\nEl vaso\n\nHASHTAG   HASHTAG   HASHTAG  ",
+            "text_b": null,
+            "label": 0
+        },
+        "479": {
+            "text_a": "Chistes sexistas contados por mujeres: 😂. \nChistes sexistas contados por hombres: 😡",
+            "text_b": null,
+            "label": 1
+        },
+        "480": {
+            "text_a": "MENTION MENTION Como que quejándote? Muy mal!! Solo encarga tu vida a ese dios que te quito lo homosexual... seguro no oraste lo suficiente o algo estás haciendo o mientiendo que te está saliendo mal...",
+            "text_b": null,
+            "label": 0
+        },
+        "481": {
+            "text_a": "Dicen que ser gay es una moda, mierda que hay gente que muere por marcar tendencia!!",
+            "text_b": null,
+            "label": 0
+        },
+        "482": {
+            "text_a": "La feminista promedio arremete más contra las mujeres provida y los no nacidos que contra los agresores y violadores.",
+            "text_b": null,
+            "label": 0
+        },
+        "483": {
+            "text_a": "Como vuelva a leer o ver en tiktok decir una mierda más sobre las lesbianas masculinas, que si dan miedo que si son peor que hombres heteros os juro que me lío a palos. Ellas son monísimas pero yo no, a mi si que me tenéis que tener miedo 👊🏻👊🏻👊🏻",
+            "text_b": null,
+            "label": 1
+        },
+        "484": {
+            "text_a": "¿Libertad siempre?\n¿Seguro, feminista?\n¿Seguro? 🤨 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "485": {
+            "text_a": "Me acusan de odiar a los LGB6. Yo no les tengo odio, lo que siento por ellos es mucha lástima. Es triste verlos rechazar la gracia de Cristo y entregarse a un estilo de vida degradante que sólo les trae enfermedades y daño emocional.",
+            "text_b": null,
+            "label": 0
+        },
+        "486": {
+            "text_a": "El aborto, la mutilación de órganos sanos ahora son salud. URL",
+            "text_b": null,
+            "label": 0
+        },
+        "487": {
+            "text_a": "compasión y delicadeza. Se evitará, respecto a ellos, todo signo de discriminación injusta”.\nLa homosexualidad como tendencia es “objetivamente desordenada” y “constituye para la mayoría de ellos (los homosexuales) una auténtica prueba”. (+)",
+            "text_b": null,
+            "label": 0
+        },
+        "488": {
+            "text_a": "MENTION MENTION Un tío, varón, que venga a tuiter a decir que su mujer es inútil y que de hecho todas las mujeres son tontas sería, y con toda la razón, masacrado y calificado como imbécil integral. Y es algo estupendo y con las chicas debería ser igual",
+            "text_b": null,
+            "label": 0
+        },
+        "489": {
+            "text_a": "MENTION Son homosexuales que no siguen las leyes de Dios. Merecen la excomunión y ser procesados penalmente según las leyes de su país.",
+            "text_b": null,
+            "label": 0
+        },
+        "490": {
+            "text_a": "Comodoro Rivadavia:\n8 de marzo: marchas de feminazis pidiendo el fin del \"Patriarcado\".\n9 de marzo: matan a 1 chico en la vía pública, y aparece el cadáver de otro en la playa.\nSe dan cuenta? \nLa realidad supera todo relato ideológico!",
+            "text_b": null,
+            "label": 0
+        },
+        "491": {
+            "text_a": "Los católicos no están en contra de los homosexuales, están en contra de los depravados. Si uno tiene AMS, pero vive en castidad y sin dar motivo escándalo, como debe vivir todo soltero, nada le dicen, al contrario, uno se encuentra mucho cariño en la Iglesia.",
+            "text_b": null,
+            "label": 0
+        },
+        "492": {
+            "text_a": "La delegada del gobierno tras las violaciones: \n“¿Que os está pasando a los hombres con la cultura de la violación?” \n\nQue pasaría si dijera: \n“¿Que os está pasando a los inmigrantes con la cultura de la violación?” \n\nPues eso.",
+            "text_b": null,
+            "label": 0
+        },
+        "493": {
+            "text_a": "MENTION Que no se te olvide incluir también el sobre con balas y la gorda incendiando sedes.\nLo de la Kirchner mejor ni lo menciones que ni a bufonada de segunda división llega.",
+            "text_b": null,
+            "label": 0
+        },
+        "494": {
+            "text_a": "Otro \"caso aislado\" porque si es  morito   no hay delito...",
+            "text_b": null,
+            "label": 0
+        },
+        "495": {
+            "text_a": "En esta vida me tocó tener mala suerte, espero que en la proxima toque ser flaco.",
+            "text_b": null,
+            "label": 1
+        },
+        "496": {
+            "text_a": " STRP   HASHTAG   HASHTAG   HASHTAG   MENTION\nUn niño blanco le dice a su amigo negro:\n-Yo en mi casa como a la carta, siempre pido lo que me da la gana.\nEl negro le contesta:\n-En la mia también comemos a la carta, quien saca la mas grande come ese dia.",
+            "text_b": null,
+            "label": 1
+        },
+        "497": {
+            "text_a": "Si es triste terminar una relación aquí, imagínate en China, que a cualquiera que mires te recuerda a tu ex.",
+            "text_b": null,
+            "label": 1
+        },
+        "498": {
+            "text_a": "¿Por qué quiere divorciarse de su esposo? Porque me trata como a un perro. ¿La maltrata, le pega?No. Quiere que le sea fiel.",
+            "text_b": null,
+            "label": 1
+        },
+        "499": {
+            "text_a": "El feminismo desecha, violenta, revictimiza, mata, miente.",
+            "text_b": null,
+            "label": 0
+        },
+        "500": {
+            "text_a": "Que hace una feminista cargando?\nSe esta clonando.",
+            "text_b": null,
+            "label": 1
+        },
+        "501": {
+            "text_a": "MENTION MENTION Clásica, es blanco si fuera negro se las robara todas",
+            "text_b": null,
+            "label": 0
+        },
+        "502": {
+            "text_a": "HASHTAG   Era una mujer tan fea, tan fea que llego virgen a su tercer divorcio HASHTAG   RT.",
+            "text_b": null,
+            "label": 1
+        },
+        "503": {
+            "text_a": "¿Por qué una mujer se queda mirando un sobresito de sopa durante más de media hora?\nPorque dice: \"concentrada\".\n#...",
+            "text_b": null,
+            "label": 1
+        },
+        "504": {
+            "text_a": "- Cariño ¿tengo la nariz grande?\n- No, tienes una nariz común.\n- ¿Ah, sí?\n- Sí, ¡común tucán!",
+            "text_b": null,
+            "label": 1
+        },
+        "505": {
+            "text_a": "Las mujeres solo valen para 3 cosas: follar, fregar y freír.  Filosofia De Camarero  ",
+            "text_b": null,
+            "label": 0
+        },
+        "506": {
+            "text_a": "Barbaridad racista\n\nDigame, oficial repetto: usted no estaba cuando el acusado le pegaba a este pobre hombre negro? si que estaba, señor juez\n por que no intervino? es que me parecio una barbaridad pegarle a un negro entre dos..\n\nHASHTAG    abogados  ",
+            "text_b": null,
+            "label": 1
+        },
+        "507": {
+            "text_a": "MENTION MENTION MENTION Yo a las cacas les llamo cocos porque me parece menos misógino y más feminista. Te gano.",
+            "text_b": null,
+            "label": 1
+        },
+        "508": {
+            "text_a": "MENTION MENTION MENTION Conclusión: no, la Iglesia no respalda que tu marido te viole. La violación no es amor, por tanto no debería tener cabida dentro del matrimonio. El débito conyugal busca la unión y el amor entre esposos, la donación y generosidad.",
+            "text_b": null,
+            "label": 0
+        },
+        "509": {
+            "text_a": "MENTION perdón pero no leo cosas que lleven un arcoiris, mi madre me dijo q eso era de homosexuales🙀",
+            "text_b": null,
+            "label": 0
+        },
+        "510": {
+            "text_a": "Ya se puede insultar maricones? Ay! encima llevo un día de atraso por lo que veo",
+            "text_b": null,
+            "label": 0
+        },
+        "511": {
+            "text_a": "hispanoarabe?? la primera vez que escucho eso, MOROS de mierda",
+            "text_b": null,
+            "label": 0
+        },
+        "512": {
+            "text_a": "-Hagamos el amor.\n-Me da miedo.\n-¿Pero por qué?\n-¿Qué tal y me embarazo?\n-Eso eso no pasará.\n-Promételo Alejandro.\n-Te lo prometo Jorge.",
+            "text_b": null,
+            "label": 1
+        },
+        "513": {
+            "text_a": "-La señora dice: Mi amor, mi amor ¿cierto que tengo un cuerpo de palmera? Y el esposo le dice: Si, ¡pero una cara de coco…!",
+            "text_b": null,
+            "label": 1
+        },
+        "514": {
+            "text_a": "MENTION Hay gilipollas blancos y gilipollas negros. Aquí tenemos uno negro, pero él dice que es racismo que digamos que es un negro gilipollas desagradecido y maleducado. Vuélvete a tu país a preñar a tus paisanas. Pobrecillas…",
+            "text_b": null,
+            "label": 0
+        },
+        "515": {
+            "text_a": "—¡Soy un arbolito de Navidad!\n—¡Mamá!, el maricón de mi papá se volvió a pintar los huevos con tus cosméticos.  app CIN Eco  ",
+            "text_b": null,
+            "label": 1
+        },
+        "516": {
+            "text_a": "El exceso de testosterona en este TL sigue ofendiendo a suavecitos y feminazis, es momento de cambiar.",
+            "text_b": null,
+            "label": 0
+        },
+        "517": {
+            "text_a": "MENTION MENTION MENTION Lo de Rafael Cavada contra Pancho Orrego es una canallada, una inmoralidad, una mariconada hecha con la clara intención de causar daño deliberadamente.",
+            "text_b": null,
+            "label": 0
+        },
+        "518": {
+            "text_a": "Espero me respeten: soy gay \n Feliz Domingo  ",
+            "text_b": null,
+            "label": 0
+        },
+        "519": {
+            "text_a": "En que diferencias a un negro y una bicicleta? En que al negro cuando le pones la cadena llora",
+            "text_b": null,
+            "label": 1
+        },
+        "520": {
+            "text_a": "He buscado la fuente de los datos y...\n¡Es de un chiringuito feminista! \nNo sé, Rick... 😏 URL",
+            "text_b": null,
+            "label": 0
+        },
+        "521": {
+            "text_a": "Yo: El feminismo es victimismo.\nFeminitonta: Eso es ridículo, nosotras no usamos el victimismo en todo.\n3 doritos después: URL",
+            "text_b": null,
+            "label": 0
+        },
+        "522": {
+            "text_a": "Homofobo? No, yo no soy eso, porque homo es hombre, y yo no soy gay.",
+            "text_b": null,
+            "label": 0
+        },
+        "523": {
+            "text_a": "Llegué hace poco de un viaje fuera de Chile, y al regreso en aduana y Sag me revisaron todo el equipaje. Me wuebiaron por una caja de té que me encargaron.\nLos inmigrantes entran sin documentos, enfermos, con armas y drogas y nadie les dice algo.😡😡😡",
+            "text_b": null,
+            "label": 0
+        },
+        "524": {
+            "text_a": "Sabéis porqué todos los negros que vemos son rápidos? Porque los lentos están en la cárcel.",
+            "text_b": null,
+            "label": 1
+        },
+        "525": {
+            "text_a": "Ser aliado feminista como nuevo concepto de BDSM. Lo compro.",
+            "text_b": null,
+            "label": 1
+        },
+        "526": {
+            "text_a": "Dios mío que gorda con mi cena",
+            "text_b": null,
+            "label": 0
+        },
+        "527": {
+            "text_a": "Si una mujer hace algo bien, la insulto.\n\nSi una mujer hace algo mal, la insulto aún más\n\nSi una mujer no hace nada, la insulto\n\nSi una mujer hace algo, la insulto también",
+            "text_b": null,
+            "label": 0
+        },
+        "528": {
+            "text_a": "HASHTAG   ¿Que hace un negro bomitando? Presumir de que ha comido",
+            "text_b": null,
+            "label": 1
+        },
+        "529": {
+            "text_a": "MENTION  Ideologia De Genero   es una basura ideológica absurda dictada desde la  ONU   e impuesta en gran parte del mundo! URL",
+            "text_b": null,
+            "label": 0
+        },
+        "530": {
+            "text_a": "MENTION No intentes hacerte un mostopapi, el es el negro más fiel de España, y mira que ha habido esclavos.",
+            "text_b": null,
+            "label": 0
+        },
+        "531": {
+            "text_a": "Las mujeres científicas son una afrenta contra la naturaleza. La ciencia pertenece al género masculino.",
+            "text_b": null,
+            "label": 0
+        },
+        "532": {
+            "text_a": "No soy racista, yo tenía muchos amigos negros, hasta q mi papá los vendió.",
+            "text_b": null,
+            "label": 1
+        },
+        "533": {
+            "text_a": "Jamas olvidaré ni perdonaré que mi profesora comparara la transexualidad con la ESQUIZOFRENIA La tipa además no diferencia entre orientación sexual e identidad sexual. Le dije que no son lo mismo y su respuesta fue \"si si... ya crecerás y entenderás todo\"",
+            "text_b": null,
+            "label": 0
+        },
+        "534": {
+            "text_a": "Las mujeres son como las dentaduras, si les das buena comida y te las cepillas a diario te duran toda la vida.",
+            "text_b": null,
+            "label": 1
+        }
+    },
+    "metrics": {
+        "accuracy": 0.79813,
+        "f1": 0.67665,
+        "precision": 0.70625,
+        "recall": 0.64943
+    },
+    "test_model_outputs": [
+        0.0948486328125,
+        -0.099853515625,
+        0.765625,
+        0.02960205078125,
+        0.00171661376953125,
+        1.2236328125,
+        -0.07183837890625,
+        0.37255859375,
+        0.0650634765625,
+        0.353759765625,
+        0.04876708984375,
+        0.3740234375,
+        0.33935546875,
+        0.11773681640625,
+        0.7314453125,
+        -0.0210723876953125,
+        0.2110595703125,
+        0.73046875,
+        0.29541015625,
+        0.53173828125,
+        0.0499267578125,
+        0.1546630859375,
+        0.1246337890625,
+        0.04791259765625,
+        0.1629638671875,
+        0.70068359375,
+        0.53955078125,
+        0.2215576171875,
+        1.0654296875,
+        -0.057159423828125,
+        -0.0401611328125,
+        0.470458984375,
+        0.95068359375,
+        0.70654296875,
+        0.98876953125,
+        0.383544921875,
+        1.1318359375,
+        0.490234375,
+        0.3427734375,
+        -0.0836181640625,
+        0.8759765625,
+        -0.06719970703125,
+        0.69921875,
+        0.73583984375,
+        0.3232421875,
+        0.2998046875,
+        1.0849609375,
+        0.019256591796875,
+        0.1539306640625,
+        -0.1529541015625,
+        0.525390625,
+        0.412109375,
+        0.1536865234375,
+        0.0159912109375,
+        -0.046844482421875,
+        0.0384521484375,
+        0.47216796875,
+        0.16015625,
+        0.28515625,
+        -0.0504150390625,
+        0.395263671875,
+        0.00481414794921875,
+        -0.055419921875,
+        0.13232421875,
+        1.0126953125,
+        1.1083984375,
+        0.379150390625,
+        -0.03326416015625,
+        0.8193359375,
+        0.65966796875,
+        -0.058807373046875,
+        0.77783203125,
+        0.69873046875,
+        1.013671875,
+        0.373291015625,
+        0.00788116455078125,
+        0.51123046875,
+        -0.0283355712890625,
+        0.383544921875,
+        -0.1328125,
+        0.0826416015625,
+        0.339111328125,
+        -0.062042236328125,
+        1.00390625,
+        1.0517578125,
+        0.2841796875,
+        1.0283203125,
+        0.56884765625,
+        1.0966796875,
+        0.1304931640625,
+        0.11248779296875,
+        0.0022296905517578125,
+        0.2049560546875,
+        0.55126953125,
+        0.06597900390625,
+        0.310546875,
+        0.53173828125,
+        0.63818359375,
+        0.1353759765625,
+        0.028961181640625,
+        0.04217529296875,
+        -0.043701171875,
+        0.354248046875,
+        -0.045745849609375,
+        0.896484375,
+        0.324951171875,
+        0.027099609375,
+        0.176025390625,
+        0.615234375,
+        0.0251007080078125,
+        1.0361328125,
+        0.1634521484375,
+        0.07965087890625,
+        -0.06390380859375,
+        0.19189453125,
+        -0.123779296875,
+        0.93994140625,
+        0.271728515625,
+        0.046966552734375,
+        0.03399658203125,
+        0.974609375,
+        0.253173828125,
+        0.431396484375,
+        -0.040313720703125,
+        0.56689453125,
+        0.00013124942779541016,
+        0.06396484375,
+        0.09619140625,
+        -0.0177459716796875,
+        0.9375,
+        0.494140625,
+        1.076171875,
+        0.06732177734375,
+        0.2081298828125,
+        0.1676025390625,
+        0.73486328125,
+        -0.029144287109375,
+        0.1639404296875,
+        0.55126953125,
+        0.9716796875,
+        0.91943359375,
+        -0.0082550048828125,
+        1.0205078125,
+        0.01155853271484375,
+        0.63427734375,
+        0.28125,
+        0.37548828125,
+        -0.09637451171875,
+        0.05218505859375,
+        -0.040313720703125,
+        0.5048828125,
+        0.982421875,
+        0.39794921875,
+        0.1588134765625,
+        0.2388916015625,
+        0.439208984375,
+        0.1732177734375,
+        0.266845703125,
+        0.03173828125,
+        -0.03497314453125,
+        0.40185546875,
+        0.82080078125,
+        -0.03515625,
+        0.047698974609375,
+        -0.0322265625,
+        -0.06475830078125,
+        1.0380859375,
+        0.6943359375,
+        -0.016998291015625,
+        0.2188720703125,
+        0.57861328125,
+        0.48046875,
+        0.005828857421875,
+        0.91064453125,
+        0.9072265625,
+        0.42529296875,
+        0.1807861328125,
+        0.1370849609375,
+        0.3818359375,
+        0.049896240234375,
+        0.139892578125,
+        0.41015625,
+        0.0163421630859375,
+        0.10772705078125,
+        1.10546875,
+        0.2080078125,
+        0.38720703125,
+        0.133544921875,
+        0.7998046875,
+        -0.0255126953125,
+        0.10052490234375,
+        -0.047454833984375,
+        1.0126953125,
+        -0.13330078125,
+        0.10772705078125,
+        -0.1959228515625,
+        0.039794921875,
+        0.039886474609375,
+        0.0224151611328125,
+        0.11798095703125,
+        0.257568359375,
+        0.0721435546875,
+        -0.00022530555725097656,
+        0.2176513671875,
+        0.39794921875,
+        0.0631103515625,
+        0.56005859375,
+        0.1142578125,
+        0.07330322265625,
+        -0.05548095703125,
+        1.1650390625,
+        0.54931640625,
+        0.415283203125,
+        0.1124267578125,
+        -0.0148468017578125,
+        0.515625,
+        -0.08154296875,
+        0.4052734375,
+        0.00461578369140625,
+        0.032257080078125,
+        1.2412109375,
+        0.69482421875,
+        -0.083740234375,
+        0.0899658203125,
+        0.96044921875,
+        0.0199432373046875,
+        -0.0625,
+        -0.0313720703125,
+        0.07525634765625,
+        0.2496337890625,
+        -0.0635986328125,
+        0.51953125,
+        1.1298828125,
+        0.059112548828125,
+        0.08673095703125,
+        0.406982421875,
+        0.0771484375,
+        1.2509765625,
+        0.07232666015625,
+        0.170166015625,
+        0.400390625,
+        0.14599609375,
+        0.299072265625,
+        0.055755615234375,
+        0.0316162109375,
+        0.798828125,
+        0.332763671875,
+        0.127685546875,
+        0.0887451171875,
+        0.67529296875,
+        -0.00174713134765625,
+        -0.019805908203125,
+        0.33349609375,
+        0.11883544921875,
+        1.0751953125,
+        0.430908203125,
+        -0.056915283203125,
+        0.5439453125,
+        0.583984375,
+        0.513671875,
+        1.2275390625,
+        0.67822265625,
+        0.202880859375,
+        -0.013427734375,
+        0.64111328125,
+        0.96044921875,
+        1.09765625
+    ],
+    "test_predictions": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+    ]
+}
